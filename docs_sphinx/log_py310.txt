@@ -1,0 +1,1778 @@
+Running Sphinx v7.3.7
+Creating file ./reference/brian2.__init__.check_cache.rst.
+Creating file ./reference/brian2.__init__.clear_cache.rst.
+Creating file ./reference/brian2.hears.BridgeSound.rst.
+Creating file ./reference/brian2.hears.FilterbankGroup.rst.
+Creating file ./reference/brian2.hears.Sound.rst.
+Creating file ./reference/brian2.hears.WrappedSound.rst.
+Creating file ./reference/brian2.hears.convert_unit_b1_to_b2.rst.
+Creating file ./reference/brian2.hears.convert_unit_b2_to_b1.rst.
+Creating file ./reference/brian2.hears.modify_arg.rst.
+Creating file ./reference/brian2.hears.wrap_units.rst.
+Creating file ./reference/brian2.hears.wrap_units_class.rst.
+Creating file ./reference/brian2.hears.wrap_units_property.rst.
+Creating file ./reference/brian2.only.restore_initial_state.rst.
+Creating file ./reference/brian2.rst.
+Creating file ./reference/brian2.codegen.codeobject.CodeObject.rst.
+Creating file ./reference/brian2.codegen.codeobject.check_compiler_kwds.rst.
+Creating file ./reference/brian2.codegen.codeobject.constant_or_scalar.rst.
+Creating file ./reference/brian2.codegen.codeobject.create_runner_codeobj.rst.
+Creating file ./reference/brian2.codegen.cpp_prefs.C99Check.rst.
+Creating file ./reference/brian2.codegen.cpp_prefs.compiler_supports_c99.rst.
+Creating file ./reference/brian2.codegen.cpp_prefs.get_compiler_and_args.rst.
+Creating file ./reference/brian2.codegen.cpp_prefs.get_msvc_env.rst.
+Creating file ./reference/brian2.codegen.cpp_prefs.has_flag.rst.
+Creating file ./reference/brian2.codegen.optimisation.ArithmeticSimplifier.rst.
+Creating file ./reference/brian2.codegen.optimisation.Simplifier.rst.
+Creating file ./reference/brian2.codegen.optimisation.cancel_identical_terms.rst.
+Creating file ./reference/brian2.codegen.optimisation.collect.rst.
+Creating file ./reference/brian2.codegen.optimisation.collect_commutative.rst.
+Creating file ./reference/brian2.codegen.optimisation.evaluate_expr.rst.
+Creating file ./reference/brian2.codegen.optimisation.expression_complexity.rst.
+Creating file ./reference/brian2.codegen.optimisation.optimise_statements.rst.
+Creating file ./reference/brian2.codegen.optimisation.reduced_node.rst.
+Creating file ./reference/brian2.codegen.permutation_analysis.OrderDependenceError.rst.
+Creating file ./reference/brian2.codegen.permutation_analysis.check_for_order_independence.rst.
+Creating file ./reference/brian2.codegen.statements.Statement.rst.
+Creating file ./reference/brian2.codegen.templates.CodeObjectTemplate.rst.
+Creating file ./reference/brian2.codegen.templates.LazyTemplateLoader.rst.
+Creating file ./reference/brian2.codegen.templates.MultiTemplate.rst.
+Creating file ./reference/brian2.codegen.templates.Templater.rst.
+Creating file ./reference/brian2.codegen.templates.autoindent.rst.
+Creating file ./reference/brian2.codegen.templates.autoindent_postfilter.rst.
+Creating file ./reference/brian2.codegen.templates.variables_to_array_names.rst.
+Creating file ./reference/brian2.codegen.translation.LineInfo.rst.
+Creating file ./reference/brian2.codegen.translation.analyse_identifiers.rst.
+Creating file ./reference/brian2.codegen.translation.get_identifiers_recursively.rst.
+Creating file ./reference/brian2.codegen.translation.is_scalar_expression.rst.
+Creating file ./reference/brian2.codegen.translation.make_statements.rst.
+Creating file ./reference/brian2.codegen.rst.
+Creating file ./reference/brian2.codegen.generators.GSL_generator.GSLCPPCodeGenerator.rst.
+Creating file ./reference/brian2.codegen.generators.GSL_generator.GSLCodeGenerator.rst.
+Creating file ./reference/brian2.codegen.generators.GSL_generator.GSLCythonCodeGenerator.rst.
+Creating file ./reference/brian2.codegen.generators.GSL_generator.valid_gsl_dir.rst.
+Creating file ./reference/brian2.codegen.generators.base.CodeGenerator.rst.
+Creating file ./reference/brian2.codegen.generators.cpp_generator.CPPCodeGenerator.rst.
+Creating file ./reference/brian2.codegen.generators.cpp_generator.c_data_type.rst.
+Creating file ./reference/brian2.codegen.generators.cython_generator.CythonCodeGenerator.rst.
+Creating file ./reference/brian2.codegen.generators.cython_generator.CythonNodeRenderer.rst.
+Creating file ./reference/brian2.codegen.generators.cython_generator.get_cpp_dtype.rst.
+Creating file ./reference/brian2.codegen.generators.cython_generator.get_numpy_dtype.rst.
+Creating file ./reference/brian2.codegen.generators.numpy_generator.NumpyCodeGenerator.rst.
+Creating file ./reference/brian2.codegen.generators.numpy_generator.VectorisationError.rst.
+Creating file ./reference/brian2.codegen.generators.numpy_generator.ceil_func.rst.
+Creating file ./reference/brian2.codegen.generators.numpy_generator.clip_func.rst.
+Creating file ./reference/brian2.codegen.generators.numpy_generator.floor_func.rst.
+Creating file ./reference/brian2.codegen.generators.numpy_generator.int_func.rst.
+Creating file ./reference/brian2.codegen.generators.numpy_generator.poisson_func.rst.
+Creating file ./reference/brian2.codegen.generators.numpy_generator.rand_func.rst.
+Creating file ./reference/brian2.codegen.generators.numpy_generator.randn_func.rst.
+Creating file ./reference/brian2.codegen.generators.rst.
+Creating file ./reference/brian2.codegen.runtime.rst.
+Creating file ./reference/brian2.codegen.runtime.GSLcython_rt.GSLcython_rt.GSLCompileError.rst.
+Creating file ./reference/brian2.codegen.runtime.GSLcython_rt.GSLcython_rt.GSLCythonCodeObject.rst.
+Creating file ./reference/brian2.codegen.runtime.GSLcython_rt.GSLcython_rt.IntegrationError.rst.
+Creating file ./reference/brian2.codegen.runtime.GSLcython_rt.rst.
+Creating file ./reference/brian2.codegen.runtime.cython_rt.cython_rt.CythonCodeObject.rst.
+Creating file ./reference/brian2.codegen.runtime.cython_rt.extension_manager.CythonExtensionManager.rst.
+Creating file ./reference/brian2.codegen.runtime.cython_rt.extension_manager.get_cython_cache_dir.rst.
+Creating file ./reference/brian2.codegen.runtime.cython_rt.extension_manager.get_cython_extensions.rst.
+Creating file ./reference/brian2.codegen.runtime.cython_rt.extension_manager.simplify_path_env_var.rst.
+Creating file ./reference/brian2.codegen.runtime.cython_rt.extension_manager.cython_extension_manager.rst.
+Creating file ./reference/brian2.codegen.runtime.cython_rt.rst.
+Creating file ./reference/brian2.codegen.runtime.numpy_rt.numpy_rt.LazyArange.rst.
+Creating file ./reference/brian2.codegen.runtime.numpy_rt.numpy_rt.NumpyCodeObject.rst.
+Creating file ./reference/brian2.codegen.runtime.numpy_rt.rst.
+Creating file ./reference/brian2.core.base.BrianObject.rst.
+Creating file ./reference/brian2.core.base.BrianObjectException.rst.
+Creating file ./reference/brian2.core.base.brian_object_exception.rst.
+Creating file ./reference/brian2.core.base.device_override.rst.
+Creating file ./reference/brian2.core.base.weakproxy_with_fallback.rst.
+Creating file ./reference/brian2.core.clocks.Clock.rst.
+Creating file ./reference/brian2.core.clocks.DefaultClockProxy.rst.
+Creating file ./reference/brian2.core.clocks.check_dt.rst.
+Creating file ./reference/brian2.core.clocks.defaultclock.rst.
+Creating file ./reference/brian2.core.core_preferences.default_float_dtype_validator.rst.
+Creating file ./reference/brian2.core.core_preferences.dtype_repr.rst.
+Creating file ./reference/brian2.core.functions.Function.rst.
+Creating file ./reference/brian2.core.functions.FunctionImplementation.rst.
+Creating file ./reference/brian2.core.functions.FunctionImplementationContainer.rst.
+Creating file ./reference/brian2.core.functions.SymbolicConstant.rst.
+Creating file ./reference/brian2.core.functions.exprel.rst.
+Creating file ./reference/brian2.core.functions.declare_types.rst.
+Creating file ./reference/brian2.core.functions.implementation.rst.
+Creating file ./reference/brian2.core.functions.timestep.rst.
+Creating file ./reference/brian2.core.magic.MagicError.rst.
+Creating file ./reference/brian2.core.magic.MagicNetwork.rst.
+Creating file ./reference/brian2.core.magic.collect.rst.
+Creating file ./reference/brian2.core.magic.get_objects_in_namespace.rst.
+Creating file ./reference/brian2.core.magic.restore.rst.
+Creating file ./reference/brian2.core.magic.run.rst.
+Creating file ./reference/brian2.core.magic.start_scope.rst.
+Creating file ./reference/brian2.core.magic.stop.rst.
+Creating file ./reference/brian2.core.magic.store.rst.
+Creating file ./reference/brian2.core.magic.magic_network.rst.
+Creating file ./reference/brian2.core.names.Nameable.rst.
+Creating file ./reference/brian2.core.names.find_name.rst.
+Creating file ./reference/brian2.core.namespace.get_local_namespace.rst.
+Creating file ./reference/brian2.core.network.Network.rst.
+Creating file ./reference/brian2.core.network.ProfilingSummary.rst.
+Creating file ./reference/brian2.core.network.SchedulingSummary.rst.
+Creating file ./reference/brian2.core.network.TextReport.rst.
+Creating file ./reference/brian2.core.network.profiling_summary.rst.
+Creating file ./reference/brian2.core.network.schedule_propagation_offset.rst.
+Creating file ./reference/brian2.core.network.scheduling_summary.rst.
+Creating file ./reference/brian2.core.operations.NetworkOperation.rst.
+Creating file ./reference/brian2.core.operations.network_operation.rst.
+Creating file ./reference/brian2.core.preferences.BrianGlobalPreferences.rst.
+Creating file ./reference/brian2.core.preferences.BrianGlobalPreferencesView.rst.
+Creating file ./reference/brian2.core.preferences.BrianPreference.rst.
+Creating file ./reference/brian2.core.preferences.DefaultValidator.rst.
+Creating file ./reference/brian2.core.preferences.ErrorRaiser.rst.
+Creating file ./reference/brian2.core.preferences.PreferenceError.rst.
+Creating file ./reference/brian2.core.preferences.check_preference_name.rst.
+Creating file ./reference/brian2.core.preferences.parse_preference_name.rst.
+Creating file ./reference/brian2.core.preferences.brian_prefs.rst.
+Creating file ./reference/brian2.core.preferences.prefs.rst.
+Creating file ./reference/brian2.core.spikesource.SpikeSource.rst.
+Creating file ./reference/brian2.core.tracking.InstanceFollower.rst.
+Creating file ./reference/brian2.core.tracking.InstanceTrackerSet.rst.
+Creating file ./reference/brian2.core.tracking.Trackable.rst.
+Creating file ./reference/brian2.core.variables.ArrayVariable.rst.
+Creating file ./reference/brian2.core.variables.AuxiliaryVariable.rst.
+Creating file ./reference/brian2.core.variables.Constant.rst.
+Creating file ./reference/brian2.core.variables.DynamicArrayVariable.rst.
+Creating file ./reference/brian2.core.variables.LinkedVariable.rst.
+Creating file ./reference/brian2.core.variables.Subexpression.rst.
+Creating file ./reference/brian2.core.variables.Variable.rst.
+Creating file ./reference/brian2.core.variables.VariableView.rst.
+Creating file ./reference/brian2.core.variables.Variables.rst.
+Creating file ./reference/brian2.core.variables.get_dtype.rst.
+Creating file ./reference/brian2.core.variables.get_dtype_str.rst.
+Creating file ./reference/brian2.core.variables.linked_var.rst.
+Creating file ./reference/brian2.core.variables.variables_by_owner.rst.
+Creating file ./reference/brian2.core.rst.
+Creating file ./reference/brian2.devices.device.CurrentDeviceProxy.rst.
+Creating file ./reference/brian2.devices.device.Device.rst.
+Creating file ./reference/brian2.devices.device.Dummy.rst.
+Creating file ./reference/brian2.devices.device.RuntimeDevice.rst.
+Creating file ./reference/brian2.devices.device.auto_target.rst.
+Creating file ./reference/brian2.devices.device.get_device.rst.
+Creating file ./reference/brian2.devices.device.reinit_and_delete.rst.
+Creating file ./reference/brian2.devices.device.reinit_devices.rst.
+Creating file ./reference/brian2.devices.device.reset_device.rst.
+Creating file ./reference/brian2.devices.device.seed.rst.
+Creating file ./reference/brian2.devices.device.set_device.rst.
+Creating file ./reference/brian2.devices.device.active_device.rst.
+Creating file ./reference/brian2.devices.device.device.rst.
+Creating file ./reference/brian2.devices.device.runtime_device.rst.
+Creating file ./reference/brian2.devices.rst.
+Creating file ./reference/brian2.devices.cpp_standalone.GSLcodeobject.GSLCPPStandaloneCodeObject.rst.
+Creating file ./reference/brian2.devices.cpp_standalone.codeobject.CPPStandaloneCodeObject.rst.
+Creating file ./reference/brian2.devices.cpp_standalone.codeobject.generate_rand_code.rst.
+Creating file ./reference/brian2.devices.cpp_standalone.codeobject.openmp_pragma.rst.
+Creating file ./reference/brian2.devices.cpp_standalone.device.CPPStandaloneDevice.rst.
+Creating file ./reference/brian2.devices.cpp_standalone.device.CPPWriter.rst.
+Creating file ./reference/brian2.devices.cpp_standalone.device.RunFunctionContext.rst.
+Creating file ./reference/brian2.devices.cpp_standalone.device.invert_dict.rst.
+Creating file ./reference/brian2.devices.cpp_standalone.device.cpp_standalone_device.rst.
+Creating file ./reference/brian2.devices.cpp_standalone.rst.
+Creating file ./reference/brian2.equations.codestrings.CodeString.rst.
+Creating file ./reference/brian2.equations.codestrings.Expression.rst.
+Creating file ./reference/brian2.equations.codestrings.Statements.rst.
+Creating file ./reference/brian2.equations.codestrings.is_constant_over_dt.rst.
+Creating file ./reference/brian2.equations.equations.EquationError.rst.
+Creating file ./reference/brian2.equations.equations.Equations.rst.
+Creating file ./reference/brian2.equations.equations.SingleEquation.rst.
+Creating file ./reference/brian2.equations.equations.check_identifier_basic.rst.
+Creating file ./reference/brian2.equations.equations.check_identifier_constants.rst.
+Creating file ./reference/brian2.equations.equations.check_identifier_functions.rst.
+Creating file ./reference/brian2.equations.equations.check_identifier_reserved.rst.
+Creating file ./reference/brian2.equations.equations.check_identifier_units.rst.
+Creating file ./reference/brian2.equations.equations.check_subexpressions.rst.
+Creating file ./reference/brian2.equations.equations.dimensions_and_type_from_string.rst.
+Creating file ./reference/brian2.equations.equations.extract_constant_subexpressions.rst.
+Creating file ./reference/brian2.equations.equations.is_stateful.rst.
+Creating file ./reference/brian2.equations.equations.parse_string_equations.rst.
+Creating file ./reference/brian2.equations.refractory.add_refractoriness.rst.
+Creating file ./reference/brian2.equations.refractory.check_identifier_refractory.rst.
+Creating file ./reference/brian2.equations.unitcheck.check_dimensions.rst.
+Creating file ./reference/brian2.equations.unitcheck.check_units_statements.rst.
+Creating file ./reference/brian2.equations.rst.
+Creating file ./reference/brian2.groups.group.CodeRunner.rst.
+Creating file ./reference/brian2.groups.group.Group.rst.
+Creating file ./reference/brian2.groups.group.IndexWrapper.rst.
+Creating file ./reference/brian2.groups.group.Indexing.rst.
+Creating file ./reference/brian2.groups.group.VariableOwner.rst.
+Creating file ./reference/brian2.groups.group.get_dtype.rst.
+Creating file ./reference/brian2.groups.neurongroup.NeuronGroup.rst.
+Creating file ./reference/brian2.groups.neurongroup.Resetter.rst.
+Creating file ./reference/brian2.groups.neurongroup.StateUpdater.rst.
+Creating file ./reference/brian2.groups.neurongroup.SubexpressionUpdater.rst.
+Creating file ./reference/brian2.groups.neurongroup.Thresholder.rst.
+Creating file ./reference/brian2.groups.neurongroup.check_identifier_pre_post.rst.
+Creating file ./reference/brian2.groups.neurongroup.to_start_stop.rst.
+Creating file ./reference/brian2.groups.subgroup.Subgroup.rst.
+Creating file ./reference/brian2.groups.rst.
+Creating file ./reference/brian2.importexport.dictlike.DictImportExport.rst.
+Creating file ./reference/brian2.importexport.dictlike.PandasImportExport.rst.
+Creating file ./reference/brian2.importexport.importexport.ImportExport.rst.
+Creating file ./reference/brian2.importexport.rst.
+Creating file ./reference/brian2.input.binomial.BinomialFunction.rst.
+Creating file ./reference/brian2.input.poissongroup.PoissonGroup.rst.
+Creating file ./reference/brian2.input.poissoninput.PoissonInput.rst.
+Creating file ./reference/brian2.input.spikegeneratorgroup.SpikeGeneratorGroup.rst.
+Creating file ./reference/brian2.input.timedarray.TimedArray.rst.
+Creating file ./reference/brian2.input.rst.
+Creating file ./reference/brian2.memory.dynamicarray.DynamicArray.rst.
+Creating file ./reference/brian2.memory.dynamicarray.DynamicArray1D.rst.
+Creating file ./reference/brian2.memory.dynamicarray.getslices.rst.
+Creating file ./reference/brian2.memory.rst.
+Creating file ./reference/brian2.monitors.ratemonitor.PopulationRateMonitor.rst.
+Creating file ./reference/brian2.monitors.spikemonitor.EventMonitor.rst.
+Creating file ./reference/brian2.monitors.spikemonitor.SpikeMonitor.rst.
+Creating file ./reference/brian2.monitors.statemonitor.StateMonitor.rst.
+Creating file ./reference/brian2.monitors.statemonitor.StateMonitorView.rst.
+Creating file ./reference/brian2.monitors.rst.
+Creating file ./reference/brian2.parsing.bast.BrianASTRenderer.rst.
+Creating file ./reference/brian2.parsing.bast.brian_ast.rst.
+Creating file ./reference/brian2.parsing.bast.brian_dtype_from_dtype.rst.
+Creating file ./reference/brian2.parsing.bast.brian_dtype_from_value.rst.
+Creating file ./reference/brian2.parsing.bast.is_boolean.rst.
+Creating file ./reference/brian2.parsing.bast.is_boolean_dtype.rst.
+Creating file ./reference/brian2.parsing.bast.is_float.rst.
+Creating file ./reference/brian2.parsing.bast.is_float_dtype.rst.
+Creating file ./reference/brian2.parsing.bast.is_integer.rst.
+Creating file ./reference/brian2.parsing.bast.is_integer_dtype.rst.
+Creating file ./reference/brian2.parsing.dependencies.abstract_code_dependencies.rst.
+Creating file ./reference/brian2.parsing.dependencies.get_read_write_funcs.rst.
+Creating file ./reference/brian2.parsing.expressions.is_boolean_expression.rst.
+Creating file ./reference/brian2.parsing.expressions.parse_expression_dimensions.rst.
+Creating file ./reference/brian2.parsing.functions.AbstractCodeFunction.rst.
+Creating file ./reference/brian2.parsing.functions.FunctionRewriter.rst.
+Creating file ./reference/brian2.parsing.functions.VarRewriter.rst.
+Creating file ./reference/brian2.parsing.functions.abstract_code_from_function.rst.
+Creating file ./reference/brian2.parsing.functions.extract_abstract_code_functions.rst.
+Creating file ./reference/brian2.parsing.functions.substitute_abstract_code_functions.rst.
+Creating file ./reference/brian2.parsing.rendering.CPPNodeRenderer.rst.
+Creating file ./reference/brian2.parsing.rendering.NodeRenderer.rst.
+Creating file ./reference/brian2.parsing.rendering.NumpyNodeRenderer.rst.
+Creating file ./reference/brian2.parsing.rendering.SympyNodeRenderer.rst.
+Creating file ./reference/brian2.parsing.rendering.get_node_value.rst.
+Creating file ./reference/brian2.parsing.statements.parse_statement.rst.
+Creating file ./reference/brian2.parsing.sympytools.CustomSympyPrinter.rst.
+Creating file ./reference/brian2.parsing.sympytools.check_expression_for_multiple_stateful_functions.rst.
+Creating file ./reference/brian2.parsing.sympytools.expression_complexity.rst.
+Creating file ./reference/brian2.parsing.sympytools.str_to_sympy.rst.
+Creating file ./reference/brian2.parsing.sympytools.sympy_to_str.rst.
+Creating file ./reference/brian2.parsing.sympytools.PRINTER.rst.
+Creating file ./reference/brian2.parsing.rst.
+Creating file ./reference/brian2.random.rst.
+Creating file ./reference/brian2.spatialneuron.morphology.Children.rst.
+Creating file ./reference/brian2.spatialneuron.morphology.Cylinder.rst.
+Creating file ./reference/brian2.spatialneuron.morphology.Morphology.rst.
+Creating file ./reference/brian2.spatialneuron.morphology.MorphologyIndexWrapper.rst.
+Creating file ./reference/brian2.spatialneuron.morphology.Node.rst.
+Creating file ./reference/brian2.spatialneuron.morphology.Section.rst.
+Creating file ./reference/brian2.spatialneuron.morphology.Soma.rst.
+Creating file ./reference/brian2.spatialneuron.morphology.SubMorphology.rst.
+Creating file ./reference/brian2.spatialneuron.morphology.Topology.rst.
+Creating file ./reference/brian2.spatialneuron.spatialneuron.FlatMorphology.rst.
+Creating file ./reference/brian2.spatialneuron.spatialneuron.SpatialNeuron.rst.
+Creating file ./reference/brian2.spatialneuron.spatialneuron.SpatialStateUpdater.rst.
+Creating file ./reference/brian2.spatialneuron.spatialneuron.SpatialSubgroup.rst.
+Creating file ./reference/brian2.spatialneuron.rst.
+Creating file ./reference/brian2.stateupdaters.GSL.GSLContainer.rst.
+Creating file ./reference/brian2.stateupdaters.GSL.GSLStateUpdater.rst.
+Creating file ./reference/brian2.stateupdaters.GSL.gsl_rk2.rst.
+Creating file ./reference/brian2.stateupdaters.GSL.gsl_rk4.rst.
+Creating file ./reference/brian2.stateupdaters.GSL.gsl_rk8pd.rst.
+Creating file ./reference/brian2.stateupdaters.GSL.gsl_rkck.rst.
+Creating file ./reference/brian2.stateupdaters.GSL.gsl_rkf45.rst.
+Creating file ./reference/brian2.stateupdaters.base.StateUpdateMethod.rst.
+Creating file ./reference/brian2.stateupdaters.base.UnsupportedEquationsException.rst.
+Creating file ./reference/brian2.stateupdaters.base.extract_method_options.rst.
+Creating file ./reference/brian2.stateupdaters.exact.IndependentStateUpdater.rst.
+Creating file ./reference/brian2.stateupdaters.exact.LinearStateUpdater.rst.
+Creating file ./reference/brian2.stateupdaters.exact.get_linear_system.rst.
+Creating file ./reference/brian2.stateupdaters.exact.exact.rst.
+Creating file ./reference/brian2.stateupdaters.exact.independent.rst.
+Creating file ./reference/brian2.stateupdaters.exact.linear.rst.
+Creating file ./reference/brian2.stateupdaters.explicit.ExplicitStateUpdater.rst.
+Creating file ./reference/brian2.stateupdaters.explicit.diagonal_noise.rst.
+Creating file ./reference/brian2.stateupdaters.explicit.split_expression.rst.
+Creating file ./reference/brian2.stateupdaters.explicit.euler.rst.
+Creating file ./reference/brian2.stateupdaters.explicit.heun.rst.
+Creating file ./reference/brian2.stateupdaters.explicit.milstein.rst.
+Creating file ./reference/brian2.stateupdaters.explicit.rk2.rst.
+Creating file ./reference/brian2.stateupdaters.explicit.rk4.rst.
+Creating file ./reference/brian2.stateupdaters.exponential_euler.ExponentialEulerStateUpdater.rst.
+Creating file ./reference/brian2.stateupdaters.exponential_euler.get_conditionally_linear_system.rst.
+Creating file ./reference/brian2.stateupdaters.exponential_euler.exponential_euler.rst.
+Creating file ./reference/brian2.stateupdaters.rst.
+Creating file ./reference/brian2.synapses.parse_synaptic_generator_syntax.handle_range.rst.
+Creating file ./reference/brian2.synapses.parse_synaptic_generator_syntax.handle_sample.rst.
+Creating file ./reference/brian2.synapses.parse_synaptic_generator_syntax.parse_synapse_generator.rst.
+Creating file ./reference/brian2.synapses.spikequeue.SpikeQueue.rst.
+Creating file ./reference/brian2.synapses.synapses.StateUpdater.rst.
+Creating file ./reference/brian2.synapses.synapses.SummedVariableUpdater.rst.
+Creating file ./reference/brian2.synapses.synapses.Synapses.rst.
+Creating file ./reference/brian2.synapses.synapses.SynapticIndexing.rst.
+Creating file ./reference/brian2.synapses.synapses.SynapticPathway.rst.
+Creating file ./reference/brian2.synapses.synapses.SynapticSubgroup.rst.
+Creating file ./reference/brian2.synapses.synapses.find_synapses.rst.
+Creating file ./reference/brian2.synapses.synapses.slice_to_test.rst.
+Creating file ./reference/brian2.synapses.rst.
+Creating file ./reference/brian2.units.allunits.celsius.rst.
+Creating file ./reference/brian2.units.fundamentalunits.Dimension.rst.
+Creating file ./reference/brian2.units.fundamentalunits.DimensionMismatchError.rst.
+Creating file ./reference/brian2.units.fundamentalunits.Quantity.rst.
+Creating file ./reference/brian2.units.fundamentalunits.Unit.rst.
+Creating file ./reference/brian2.units.fundamentalunits.UnitRegistry.rst.
+Creating file ./reference/brian2.units.fundamentalunits.check_units.rst.
+Creating file ./reference/brian2.units.fundamentalunits.fail_for_dimension_mismatch.rst.
+Creating file ./reference/brian2.units.fundamentalunits.get_dimensions.rst.
+Creating file ./reference/brian2.units.fundamentalunits.get_or_create_dimension.rst.
+Creating file ./reference/brian2.units.fundamentalunits.get_unit.rst.
+Creating file ./reference/brian2.units.fundamentalunits.get_unit_for_display.rst.
+Creating file ./reference/brian2.units.fundamentalunits.have_same_dimensions.rst.
+Creating file ./reference/brian2.units.fundamentalunits.in_best_unit.rst.
+Creating file ./reference/brian2.units.fundamentalunits.in_unit.rst.
+Creating file ./reference/brian2.units.fundamentalunits.is_dimensionless.rst.
+Creating file ./reference/brian2.units.fundamentalunits.is_scalar_type.rst.
+Creating file ./reference/brian2.units.fundamentalunits.quantity_with_dimensions.rst.
+Creating file ./reference/brian2.units.fundamentalunits.register_new_unit.rst.
+Creating file ./reference/brian2.units.fundamentalunits.wrap_function_change_dimensions.rst.
+Creating file ./reference/brian2.units.fundamentalunits.wrap_function_dimensionless.rst.
+Creating file ./reference/brian2.units.fundamentalunits.wrap_function_keep_dimensions.rst.
+Creating file ./reference/brian2.units.fundamentalunits.wrap_function_remove_dimensions.rst.
+Creating file ./reference/brian2.units.fundamentalunits.DIMENSIONLESS.rst.
+Creating file ./reference/brian2.units.fundamentalunits.additional_unit_register.rst.
+Creating file ./reference/brian2.units.fundamentalunits.standard_unit_register.rst.
+Creating file ./reference/brian2.units.fundamentalunits.user_unit_register.rst.
+Creating file ./reference/brian2.units.unitsafefunctions.arange.rst.
+Creating file ./reference/brian2.units.unitsafefunctions.arccos.rst.
+Creating file ./reference/brian2.units.unitsafefunctions.arccosh.rst.
+Creating file ./reference/brian2.units.unitsafefunctions.arcsin.rst.
+Creating file ./reference/brian2.units.unitsafefunctions.arcsinh.rst.
+Creating file ./reference/brian2.units.unitsafefunctions.arctan.rst.
+Creating file ./reference/brian2.units.unitsafefunctions.arctanh.rst.
+Creating file ./reference/brian2.units.unitsafefunctions.cos.rst.
+Creating file ./reference/brian2.units.unitsafefunctions.cosh.rst.
+Creating file ./reference/brian2.units.unitsafefunctions.diagonal.rst.
+Creating file ./reference/brian2.units.unitsafefunctions.dot.rst.
+Creating file ./reference/brian2.units.unitsafefunctions.exp.rst.
+Creating file ./reference/brian2.units.unitsafefunctions.linspace.rst.
+Creating file ./reference/brian2.units.unitsafefunctions.log.rst.
+Creating file ./reference/brian2.units.unitsafefunctions.ravel.rst.
+Creating file ./reference/brian2.units.unitsafefunctions.sin.rst.
+Creating file ./reference/brian2.units.unitsafefunctions.sinh.rst.
+Creating file ./reference/brian2.units.unitsafefunctions.tan.rst.
+Creating file ./reference/brian2.units.unitsafefunctions.tanh.rst.
+Creating file ./reference/brian2.units.unitsafefunctions.trace.rst.
+Creating file ./reference/brian2.units.unitsafefunctions.where.rst.
+Creating file ./reference/brian2.units.unitsafefunctions.wrap_function_to_method.rst.
+Creating file ./reference/brian2.units.rst.
+Creating file ./reference/brian2.utils.arrays.calc_repeats.rst.
+Creating file ./reference/brian2.utils.caching.CacheKey.rst.
+Creating file ./reference/brian2.utils.caching.cached.rst.
+Creating file ./reference/brian2.utils.environment.running_from_ipython.rst.
+Creating file ./reference/brian2.utils.filelock.BaseFileLock.rst.
+Creating file ./reference/brian2.utils.filelock.FileLock.rst.
+Creating file ./reference/brian2.utils.filelock.SoftFileLock.rst.
+Creating file ./reference/brian2.utils.filelock.Timeout.rst.
+Creating file ./reference/brian2.utils.filelock.UnixFileLock.rst.
+Creating file ./reference/brian2.utils.filelock.WindowsFileLock.rst.
+Creating file ./reference/brian2.utils.filelock.logger.rst.
+Creating file ./reference/brian2.utils.filetools.in_directory.rst.
+Creating file ./reference/brian2.utils.filetools.copy_directory.rst.
+Creating file ./reference/brian2.utils.filetools.ensure_directory.rst.
+Creating file ./reference/brian2.utils.filetools.ensure_directory_of_file.rst.
+Creating file ./reference/brian2.utils.logger.BrianLogger.rst.
+Creating file ./reference/brian2.utils.logger.HierarchyFilter.rst.
+Creating file ./reference/brian2.utils.logger.LogCapture.rst.
+Creating file ./reference/brian2.utils.logger.NameFilter.rst.
+Creating file ./reference/brian2.utils.logger.catch_logs.rst.
+Creating file ./reference/brian2.utils.logger.std_silent.rst.
+Creating file ./reference/brian2.utils.logger.brian_excepthook.rst.
+Creating file ./reference/brian2.utils.logger.clean_up_logging.rst.
+Creating file ./reference/brian2.utils.logger.get_logger.rst.
+Creating file ./reference/brian2.utils.logger.log_level_validator.rst.
+Creating file ./reference/brian2.utils.stringtools.SpellChecker.rst.
+Creating file ./reference/brian2.utils.stringtools.code_representation.rst.
+Creating file ./reference/brian2.utils.stringtools.deindent.rst.
+Creating file ./reference/brian2.utils.stringtools.get_identifiers.rst.
+Creating file ./reference/brian2.utils.stringtools.indent.rst.
+Creating file ./reference/brian2.utils.stringtools.replace.rst.
+Creating file ./reference/brian2.utils.stringtools.strip_empty_leading_and_trailing_lines.rst.
+Creating file ./reference/brian2.utils.stringtools.strip_empty_lines.rst.
+Creating file ./reference/brian2.utils.stringtools.stripped_deindented_lines.rst.
+Creating file ./reference/brian2.utils.stringtools.word_substitute.rst.
+Creating file ./reference/brian2.utils.topsort.topsort.rst.
+Creating file ./reference/brian2.utils.rst.
+Documenting 97 examples
+Searching for example images in directory /home/mstimberg/git/brian2/docs_sphinx/resources/examples_images
+Found example image file COBAHH.1.png
+Found example image file IF_curve_Hodgkin_Huxley.1.png
+Found example image file non_reliability.1.png
+Found example image file phase_locking.1.png
+Found example image file IF_curve_LIF.1.png
+Found example image file CUBA.1.png
+Found example image file adaptive_threshold.1.png
+Found example image file reliability.1.png
+Found example image file multiprocessing.01_using_cython.1.png
+Found example image file multiprocessing.03_standalone_joblib.1.png
+Found example image file multiprocessing.02_using_standalone.1.png
+Found example image file frompapers.Maass_Natschlaeger_Markram_2002.1.png
+Found example image file frompapers.Kremer_et_al_2011_barrel_cortex.1.png
+Found example image file frompapers.Nicola_Clopath_2017.1.png
+Found example image file frompapers.Brunel_Wang_2001.1.png
+Found example image file frompapers.Brunel_Wang_2001.2.png
+Found example image file frompapers.Jansen_Rit_1995_single_column.1.png
+Found example image file frompapers.Tetzlaff_2015.1.png
+Found example image file frompapers.Tetzlaff_2015.2.png
+Found example image file frompapers.Rossant_et_al_2011bis.1.png
+Found example image file frompapers.Brette_2004.1.png
+Found example image file frompapers.Wang_2002.1.png
+Found example image file frompapers.Brunel_2000.1.png
+Found example image file frompapers.Brunel_2000.2.png
+Found example image file frompapers.Brunel_2000.3.png
+Found example image file frompapers.Brunel_2000.4.png
+Found example image file frompapers.Wang_Buszaki_1996.1.png
+Found example image file frompapers.Graupner_Brunel_2012.1.png
+Found example image file frompapers.Naud_et_al_2008_adex_firing_patterns.1.png
+Found example image file frompapers.Naud_et_al_2008_adex_firing_patterns.2.png
+Found example image file frompapers.Naud_et_al_2008_adex_firing_patterns.3.png
+Found example image file frompapers.Naud_et_al_2008_adex_firing_patterns.4.png
+Found example image file frompapers.Naud_et_al_2008_adex_firing_patterns.5.png
+Found example image file frompapers.Naud_et_al_2008_adex_firing_patterns.6.png
+Found example image file frompapers.Naud_et_al_2008_adex_firing_patterns.7.png
+Found example image file frompapers.Naud_et_al_2008_adex_firing_patterns.8.png
+Found example image file frompapers.Tsodyks_Uziel_Markram_2000.1.png
+Found example image file frompapers.Touboul_Brette_2008.1.png
+Found example image file frompapers.Brunel_Hakim_1999.1.png
+Found example image file frompapers.Clopath_et_al_2010_no_homeostasis.1.png
+Found example image file frompapers.Diesmann_et_al_1999.1.png
+Found example image file frompapers.Izhikevich_2003.1.png
+Found example image file frompapers.Rothman_Manis_2003.1.png
+Found example image file frompapers.Morris_Lecar_1981.1.png
+Found example image file frompapers.Platkiewicz_Brette_2011.1.png
+Found example image file frompapers.Brette_Gerstner_2005.1.png
+Found example image file frompapers.Vogels_et_al_2011.1.png
+Found example image file frompapers.Hindmarsh_Rose_1984.1.png
+Found example image file frompapers.Tsodyks_Pawelzik_Markram_1998.1.png
+Found example image file frompapers.Clopath_et_al_2010_homeostasis.1.png
+Found example image file frompapers.Izhikevich_2007.1.png
+Found example image file frompapers.Brette_Guigon_2003.1.png
+Found example image file frompapers.Destexhe_et_al_1998.1.png
+Found example image file frompapers.Sturzl_et_al_2000.1.png
+Found example image file frompapers.Stimberg_et_al_2018.example_1_COBA.1.png
+Found example image file frompapers.Stimberg_et_al_2018.example_1_COBA.2.png
+Found example image file frompapers.Stimberg_et_al_2018.example_5_astro_ring.1.png
+Found example image file frompapers.Stimberg_et_al_2018.example_4_synrel.1.png
+Found example image file frompapers.Stimberg_et_al_2018.example_6_COBA_with_astro.1.png
+Found example image file frompapers.Stimberg_et_al_2018.example_2_gchi_astrocyte.1.png
+Found example image file frompapers.Stimberg_et_al_2018.example_4_rsmean.1.png
+Found example image file frompapers.Stimberg_et_al_2018.example_3_io_synapse.1.png
+Found example image file frompapers.Stimberg_et_al_2019.example_3_bisection.1.png
+Found example image file frompapers.Stimberg_et_al_2019.example_3_bisection_standalone.1.png
+Found example image file frompapers.Brette_2012.Fig5A.1.png
+Found example image file frompapers.Brette_2012.Fig1.1.png
+Found example image file frompapers.Brette_2012.Fig3CF.1.png
+Found example image file frompapers.Brette_2012.Fig4.1.png
+Found example image file frompapers.Brette_2012.Fig3AB.1.png
+Found example image file standalone.cuba_openmp.1.png
+Found example image file standalone.standalone_multiplerun.1.png
+Found example image file standalone.simple_case.1.png
+Found example image file standalone.standalone_multiple_processes.1.png
+Found example image file standalone.STDP_standalone.1.png
+Found example image file standalone.simple_case_build.1.png
+Found example image file compartmental.hodgkin_huxley_1952.1.png
+Found example image file compartmental.cylinder.1.png
+Found example image file compartmental.bipolar_cell.1.png
+Found example image file compartmental.bipolar_with_inputs2.1.png
+Found example image file compartmental.infinite_cable.1.png
+Found example image file compartmental.lfp.1.png
+Found example image file compartmental.rall.1.png
+Found example image file compartmental.bipolar_with_inputs.1.png
+Found example image file compartmental.spike_initiation.1.png
+Found example image file compartmental.hh_with_spikes.1.png
+Found example image file advanced.modelfitting_sbi.1.png
+Found example image file advanced.modelfitting_sbi.2.png
+Found example image file advanced.Ornstein_Uhlenbeck.1.png
+Found example image file advanced.compare_GSL_to_conventional.1.png
+Found example image file advanced.stochastic_odes.1.png
+Found example image file advanced.stochastic_odes.2.png
+Found example image file advanced.stochastic_odes.3.png
+Found example image file advanced.custom_events.1.png
+Found example image file advanced.exprel_function.1.png
+Found example image file advanced.COBAHH_approximated.1.png
+Found example image file synapses.spike_based_homeostasis.1.png
+Found example image file synapses.synapses.1.png
+Found example image file synapses.spatial_connections.1.png
+Found example image file synapses.nonlinear.1.png
+Found example image file synapses.gapjunctions.1.png
+Found example image file synapses.jeffress.1.png
+Found example image file synapses.continuous_interaction.1.png
+Found example image file synapses.state_variables.1.png
+Found example image file synapses.licklider.1.png
+Found example image file synapses.STDP.1.png
+Found example image file synapses.efficient_gaussian_connectivity.1.png
+/home/mstimberg/git/brian2/examples/frompapers/Spreizer_et_al_2019/perlin3.npy
+Error reading file /home/mstimberg/git/brian2/examples/frompapers/Spreizer_et_al_2019/perlin3.npy
+/home/mstimberg/git/brian2/examples/frompapers/Spreizer_et_al_2019/perlin4.npy
+Error reading file /home/mstimberg/git/brian2/examples/frompapers/Spreizer_et_al_2019/perlin4.npy
+/home/mstimberg/git/brian2/examples/frompapers/Spreizer_et_al_2019/perlin2.npy
+Error reading file /home/mstimberg/git/brian2/examples/frompapers/Spreizer_et_al_2019/perlin2.npy
+/home/mstimberg/git/brian2/examples/frompapers/Spreizer_et_al_2019/perlin1.npy
+Error reading file /home/mstimberg/git/brian2/examples/frompapers/Spreizer_et_al_2019/perlin1.npy
+/home/mstimberg/git/brian2/examples/frompapers/Spreizer_et_al_2019/perlin5.npy
+Error reading file /home/mstimberg/git/brian2/examples/frompapers/Spreizer_et_al_2019/perlin5.npy
+/home/mstimberg/git/brian2/examples/frompapers/Stimberg_et_al_2018/README.md
+/home/mstimberg/git/brian2/examples/frompapers/Stimberg_et_al_2018/figures.mplstyle
+/home/mstimberg/git/brian2/examples/frompapers/Brette_2012/README.txt
+loading pickled environment... done
+[autosummary] generating autosummary for: advanced/custom_events.rst, advanced/functions.rst, advanced/how_brian_works.rst, advanced/index.rst, advanced/interface.rst, advanced/logging.rst, advanced/namespaces.rst, advanced/preferences.rst, advanced/random.rst, advanced/scheduling.rst, ..., user/input.rst, user/models.rst, user/multicompartmental.rst, user/numerical_integration.rst, user/plotting_functions.rst, user/recording.rst, user/refractoriness.rst, user/running.rst, user/synapses.rst, user/units.rst
+building [mo]: targets for 0 po files that are out of date
+writing output... 
+building [html]: targets for 512 source files that are out of date
+updating environment: 0 added, 512 changed, 0 removed
+reading sources... [  0%] examples/COBAHH
+reading sources... [  0%] examples/CUBA
+reading sources... [  1%] examples/IF_curve_Hodgkin_Huxley
+reading sources... [  1%] examples/IF_curve_LIF
+reading sources... [  1%] examples/adaptive_threshold
+reading sources... [  1%] examples/advanced.COBAHH_approximated
+reading sources... [  1%] examples/advanced.Ornstein_Uhlenbeck
+reading sources... [  2%] examples/advanced.compare_GSL_to_conventional
+reading sources... [  2%] examples/advanced.custom_events
+reading sources... [  2%] examples/advanced.exprel_function
+reading sources... [  2%] examples/advanced.float_32_64_benchmark
+reading sources... [  2%] examples/advanced.modelfitting_sbi
+reading sources... [  3%] examples/advanced.opencv_movie
+reading sources... [  3%] examples/advanced.stochastic_odes
+reading sources... [  3%] examples/compartmental.bipolar_cell
+reading sources... [  3%] examples/compartmental.bipolar_with_inputs
+reading sources... [  3%] examples/compartmental.bipolar_with_inputs2
+reading sources... [  4%] examples/compartmental.cylinder
+reading sources... [  4%] examples/compartmental.hh_with_spikes
+reading sources... [  4%] examples/compartmental.hodgkin_huxley_1952
+reading sources... [  4%] examples/compartmental.infinite_cable
+reading sources... [  4%] examples/compartmental.lfp
+reading sources... [  4%] examples/compartmental.morphotest
+reading sources... [  5%] examples/compartmental.rall
+reading sources... [  5%] examples/compartmental.spike_initiation
+reading sources... [  5%] examples/coupled_oscillators
+reading sources... [  5%] examples/frompapers.Brette_2004
+reading sources... [  5%] examples/frompapers.Brette_2012.Fig1
+reading sources... [  6%] examples/frompapers.Brette_2012.Fig3AB
+reading sources... [  6%] examples/frompapers.Brette_2012.Fig3CF
+reading sources... [  6%] examples/frompapers.Brette_2012.Fig4
+reading sources... [  6%] examples/frompapers.Brette_2012.Fig5A
+reading sources... [  6%] examples/frompapers.Brette_2012.README.txt
+reading sources... [  7%] examples/frompapers.Brette_2012.params
+reading sources... [  7%] examples/frompapers.Brette_Gerstner_2005
+reading sources... [  7%] examples/frompapers.Brette_Guigon_2003
+reading sources... [  7%] examples/frompapers.Brunel_2000
+reading sources... [  7%] examples/frompapers.Brunel_Hakim_1999
+reading sources... [  8%] examples/frompapers.Brunel_Wang_2001
+reading sources... [  8%] examples/frompapers.Clopath_et_al_2010_homeostasis
+reading sources... [  8%] examples/frompapers.Clopath_et_al_2010_no_homeostasis
+reading sources... [  8%] examples/frompapers.Destexhe_et_al_1998
+reading sources... [  8%] examples/frompapers.Diesmann_et_al_1999
+reading sources... [  9%] examples/frompapers.Graupner_Brunel_2012
+reading sources... [  9%] examples/frompapers.Hindmarsh_Rose_1984
+reading sources... [  9%] examples/frompapers.Izhikevich_2003
+reading sources... [  9%] examples/frompapers.Izhikevich_2007
+reading sources... [  9%] examples/frompapers.Jansen_Rit_1995_single_column
+reading sources... [ 10%] examples/frompapers.Kremer_et_al_2011_barrel_cortex
+reading sources... [ 10%] examples/frompapers.Maass_Natschlaeger_Markram_2002
+reading sources... [ 10%] examples/frompapers.Morris_Lecar_1981
+reading sources... [ 10%] examples/frompapers.Naud_et_al_2008_adex_firing_patterns
+reading sources... [ 10%] examples/frompapers.Nicola_Clopath_2017
+reading sources... [ 11%] examples/frompapers.Platkiewicz_Brette_2011
+reading sources... [ 11%] examples/frompapers.Rossant_et_al_2011bis
+reading sources... [ 11%] examples/frompapers.Rothman_Manis_2003
+reading sources... [ 11%] examples/frompapers.Spreizer_et_al_2019.Spreizer_et_al_2019
+reading sources... [ 11%] examples/frompapers.Stimberg_et_al_2018.README.md
+reading sources... [ 12%] examples/frompapers.Stimberg_et_al_2018.example_1_COBA
+reading sources... [ 12%] examples/frompapers.Stimberg_et_al_2018.example_2_gchi_astrocyte
+reading sources... [ 12%] examples/frompapers.Stimberg_et_al_2018.example_3_io_synapse
+reading sources... [ 12%] examples/frompapers.Stimberg_et_al_2018.example_4_rsmean
+reading sources... [ 12%] examples/frompapers.Stimberg_et_al_2018.example_4_synrel
+reading sources... [ 12%] examples/frompapers.Stimberg_et_al_2018.example_5_astro_ring
+reading sources... [ 13%] examples/frompapers.Stimberg_et_al_2018.example_6_COBA_with_astro
+reading sources... [ 13%] examples/frompapers.Stimberg_et_al_2018.figures.mplstyle
+reading sources... [ 13%] examples/frompapers.Stimberg_et_al_2018.plot_utils
+reading sources... [ 13%] examples/frompapers.Stimberg_et_al_2019.example_3_bisection
+reading sources... [ 13%] examples/frompapers.Stimberg_et_al_2019.example_3_bisection_standalone
+reading sources... [ 14%] examples/frompapers.Sturzl_et_al_2000
+reading sources... [ 14%] examples/frompapers.Tetzlaff_2015
+reading sources... [ 14%] examples/frompapers.Touboul_Brette_2008
+reading sources... [ 14%] examples/frompapers.Tsodyks_Pawelzik_Markram_1998
+reading sources... [ 14%] examples/frompapers.Tsodyks_Uziel_Markram_2000
+reading sources... [ 15%] examples/frompapers.Vogels_et_al_2011
+reading sources... [ 15%] examples/frompapers.Wang_2002
+reading sources... [ 15%] examples/frompapers.Wang_Buszaki_1996
+reading sources... [ 15%] examples/index
+reading sources... [ 15%] examples/multiprocessing.01_using_cython
+reading sources... [ 16%] examples/multiprocessing.02_using_standalone
+reading sources... [ 16%] examples/multiprocessing.03_standalone_joblib
+reading sources... [ 16%] examples/non_reliability
+reading sources... [ 16%] examples/phase_locking
+reading sources... [ 16%] examples/reliability
+reading sources... [ 17%] examples/standalone.STDP_standalone
+reading sources... [ 17%] examples/standalone.cuba_openmp
+reading sources... [ 17%] examples/standalone.simple_case
+reading sources... [ 17%] examples/standalone.simple_case_build
+reading sources... [ 17%] examples/standalone.standalone_multiple_processes
+reading sources... [ 18%] examples/standalone.standalone_multiplerun
+reading sources... [ 18%] examples/synapses.STDP
+reading sources... [ 18%] examples/synapses.continuous_interaction
+reading sources... [ 18%] examples/synapses.efficient_gaussian_connectivity
+reading sources... [ 18%] examples/synapses.gapjunctions
+reading sources... [ 19%] examples/synapses.jeffress
+reading sources... [ 19%] examples/synapses.licklider
+reading sources... [ 19%] examples/synapses.nonlinear
+reading sources... [ 19%] examples/synapses.spatial_connections
+reading sources... [ 19%] examples/synapses.spike_based_homeostasis
+reading sources... [ 20%] examples/synapses.state_variables
+reading sources... [ 20%] examples/synapses.synapses
+reading sources... [ 20%] reference/brian2
+reading sources... [ 20%] reference/brian2.__init__.check_cache
+reading sources... [ 20%] reference/brian2.__init__.clear_cache
+reading sources... [ 21%] reference/brian2.codegen
+reading sources... [ 21%] reference/brian2.codegen.codeobject.CodeObject
+reading sources... [ 21%] reference/brian2.codegen.codeobject.check_compiler_kwds
+reading sources... [ 21%] reference/brian2.codegen.codeobject.constant_or_scalar
+reading sources... [ 21%] reference/brian2.codegen.codeobject.create_runner_codeobj
+reading sources... [ 21%] reference/brian2.codegen.cpp_prefs.C99Check
+reading sources... [ 22%] reference/brian2.codegen.cpp_prefs.compiler_supports_c99
+reading sources... [ 22%] reference/brian2.codegen.cpp_prefs.get_compiler_and_args
+reading sources... [ 22%] reference/brian2.codegen.cpp_prefs.get_msvc_env
+reading sources... [ 22%] reference/brian2.codegen.cpp_prefs.has_flag
+reading sources... [ 22%] reference/brian2.codegen.generators
+reading sources... [ 23%] reference/brian2.codegen.generators.GSL_generator.GSLCPPCodeGenerator
+reading sources... [ 23%] reference/brian2.codegen.generators.GSL_generator.GSLCodeGenerator
+reading sources... [ 23%] reference/brian2.codegen.generators.GSL_generator.GSLCythonCodeGenerator
+reading sources... [ 23%] reference/brian2.codegen.generators.GSL_generator.valid_gsl_dir
+reading sources... [ 23%] reference/brian2.codegen.generators.base.CodeGenerator
+reading sources... [ 24%] reference/brian2.codegen.generators.cpp_generator.CPPCodeGenerator
+reading sources... [ 24%] reference/brian2.codegen.generators.cpp_generator.c_data_type
+reading sources... [ 24%] reference/brian2.codegen.generators.cython_generator.CythonCodeGenerator
+reading sources... [ 24%] reference/brian2.codegen.generators.cython_generator.CythonNodeRenderer
+reading sources... [ 24%] reference/brian2.codegen.generators.cython_generator.get_cpp_dtype
+reading sources... [ 25%] reference/brian2.codegen.generators.cython_generator.get_numpy_dtype
+reading sources... [ 25%] reference/brian2.codegen.generators.numpy_generator.NumpyCodeGenerator
+reading sources... [ 25%] reference/brian2.codegen.generators.numpy_generator.VectorisationError
+reading sources... [ 25%] reference/brian2.codegen.generators.numpy_generator.ceil_func
+reading sources... [ 25%] reference/brian2.codegen.generators.numpy_generator.clip_func
+reading sources... [ 26%] reference/brian2.codegen.generators.numpy_generator.floor_func
+reading sources... [ 26%] reference/brian2.codegen.generators.numpy_generator.int_func
+reading sources... [ 26%] reference/brian2.codegen.generators.numpy_generator.poisson_func
+reading sources... [ 26%] reference/brian2.codegen.generators.numpy_generator.rand_func
+reading sources... [ 26%] reference/brian2.codegen.generators.numpy_generator.randn_func
+reading sources... [ 27%] reference/brian2.codegen.optimisation.ArithmeticSimplifier
+reading sources... [ 27%] reference/brian2.codegen.optimisation.Simplifier
+reading sources... [ 27%] reference/brian2.codegen.optimisation.cancel_identical_terms
+reading sources... [ 27%] reference/brian2.codegen.optimisation.collect
+reading sources... [ 27%] reference/brian2.codegen.optimisation.collect_commutative
+reading sources... [ 28%] reference/brian2.codegen.optimisation.evaluate_expr
+reading sources... [ 28%] reference/brian2.codegen.optimisation.expression_complexity
+reading sources... [ 28%] reference/brian2.codegen.optimisation.optimise_statements
+reading sources... [ 28%] reference/brian2.codegen.optimisation.reduced_node
+reading sources... [ 28%] reference/brian2.codegen.permutation_analysis.OrderDependenceError
+reading sources... [ 29%] reference/brian2.codegen.permutation_analysis.check_for_order_independence
+reading sources... [ 29%] reference/brian2.codegen.runtime
+reading sources... [ 29%] reference/brian2.codegen.runtime.GSLcython_rt
+reading sources... [ 29%] reference/brian2.codegen.runtime.GSLcython_rt.GSLcython_rt.GSLCompileError
+reading sources... [ 29%] reference/brian2.codegen.runtime.GSLcython_rt.GSLcython_rt.GSLCythonCodeObject
+reading sources... [ 29%] reference/brian2.codegen.runtime.GSLcython_rt.GSLcython_rt.IntegrationError
+reading sources... [ 30%] reference/brian2.codegen.runtime.cython_rt
+reading sources... [ 30%] reference/brian2.codegen.runtime.cython_rt.cython_rt.CythonCodeObject
+reading sources... [ 30%] reference/brian2.codegen.runtime.cython_rt.extension_manager.CythonExtensionManager
+reading sources... [ 30%] reference/brian2.codegen.runtime.cython_rt.extension_manager.cython_extension_manager
+reading sources... [ 30%] reference/brian2.codegen.runtime.cython_rt.extension_manager.get_cython_cache_dir
+reading sources... [ 31%] reference/brian2.codegen.runtime.cython_rt.extension_manager.get_cython_extensions
+reading sources... [ 31%] reference/brian2.codegen.runtime.cython_rt.extension_manager.simplify_path_env_var
+reading sources... [ 31%] reference/brian2.codegen.runtime.numpy_rt
+reading sources... [ 31%] reference/brian2.codegen.runtime.numpy_rt.numpy_rt.LazyArange
+reading sources... [ 31%] reference/brian2.codegen.runtime.numpy_rt.numpy_rt.NumpyCodeObject
+reading sources... [ 32%] reference/brian2.codegen.statements.Statement
+reading sources... [ 32%] reference/brian2.codegen.templates.CodeObjectTemplate
+reading sources... [ 32%] reference/brian2.codegen.templates.LazyTemplateLoader
+reading sources... [ 32%] reference/brian2.codegen.templates.MultiTemplate
+reading sources... [ 32%] reference/brian2.codegen.templates.Templater
+reading sources... [ 33%] reference/brian2.codegen.templates.autoindent
+reading sources... [ 33%] reference/brian2.codegen.templates.autoindent_postfilter
+reading sources... [ 33%] reference/brian2.codegen.templates.variables_to_array_names
+reading sources... [ 33%] reference/brian2.codegen.translation.LineInfo
+reading sources... [ 33%] reference/brian2.codegen.translation.analyse_identifiers
+reading sources... [ 34%] reference/brian2.codegen.translation.get_identifiers_recursively
+reading sources... [ 34%] reference/brian2.codegen.translation.is_scalar_expression
+reading sources... [ 34%] reference/brian2.codegen.translation.make_statements
+reading sources... [ 34%] reference/brian2.core
+reading sources... [ 34%] reference/brian2.core.base.BrianObject
+reading sources... [ 35%] reference/brian2.core.base.BrianObjectException
+reading sources... [ 35%] reference/brian2.core.base.brian_object_exception
+reading sources... [ 35%] reference/brian2.core.base.device_override
+reading sources... [ 35%] reference/brian2.core.base.weakproxy_with_fallback
+reading sources... [ 35%] reference/brian2.core.clocks.Clock
+reading sources... [ 36%] reference/brian2.core.clocks.DefaultClockProxy
+reading sources... [ 36%] reference/brian2.core.clocks.check_dt
+reading sources... [ 36%] reference/brian2.core.clocks.defaultclock
+reading sources... [ 36%] reference/brian2.core.core_preferences.default_float_dtype_validator
+reading sources... [ 36%] reference/brian2.core.core_preferences.dtype_repr
+reading sources... [ 37%] reference/brian2.core.functions.Function
+reading sources... [ 37%] reference/brian2.core.functions.FunctionImplementation
+reading sources... [ 37%] reference/brian2.core.functions.FunctionImplementationContainer
+reading sources... [ 37%] reference/brian2.core.functions.SymbolicConstant
+reading sources... [ 37%] reference/brian2.core.functions.declare_types
+reading sources... [ 38%] reference/brian2.core.functions.exprel
+reading sources... [ 38%] reference/brian2.core.functions.implementation
+reading sources... [ 38%] reference/brian2.core.functions.timestep
+reading sources... [ 38%] reference/brian2.core.magic.MagicError
+reading sources... [ 38%] reference/brian2.core.magic.MagicNetwork
+reading sources... [ 38%] reference/brian2.core.magic.collect
+reading sources... [ 39%] reference/brian2.core.magic.get_objects_in_namespace
+reading sources... [ 39%] reference/brian2.core.magic.magic_network
+reading sources... [ 39%] reference/brian2.core.magic.restore
+reading sources... [ 39%] reference/brian2.core.magic.run
+reading sources... [ 39%] reference/brian2.core.magic.start_scope
+reading sources... [ 40%] reference/brian2.core.magic.stop
+reading sources... [ 40%] reference/brian2.core.magic.store
+reading sources... [ 40%] reference/brian2.core.names.Nameable
+reading sources... [ 40%] reference/brian2.core.names.find_name
+reading sources... [ 40%] reference/brian2.core.namespace.get_local_namespace
+reading sources... [ 41%] reference/brian2.core.network.Network
+reading sources... [ 41%] reference/brian2.core.network.ProfilingSummary
+reading sources... [ 41%] reference/brian2.core.network.SchedulingSummary
+reading sources... [ 41%] reference/brian2.core.network.TextReport
+reading sources... [ 41%] reference/brian2.core.network.profiling_summary
+reading sources... [ 42%] reference/brian2.core.network.schedule_propagation_offset
+reading sources... [ 42%] reference/brian2.core.network.scheduling_summary
+reading sources... [ 42%] reference/brian2.core.operations.NetworkOperation
+reading sources... [ 42%] reference/brian2.core.operations.network_operation
+reading sources... [ 42%] reference/brian2.core.preferences.BrianGlobalPreferences
+reading sources... [ 43%] reference/brian2.core.preferences.BrianGlobalPreferencesView
+reading sources... [ 43%] reference/brian2.core.preferences.BrianPreference
+reading sources... [ 43%] reference/brian2.core.preferences.DefaultValidator
+reading sources... [ 43%] reference/brian2.core.preferences.ErrorRaiser
+reading sources... [ 43%] reference/brian2.core.preferences.PreferenceError
+reading sources... [ 44%] reference/brian2.core.preferences.brian_prefs
+reading sources... [ 44%] reference/brian2.core.preferences.check_preference_name
+reading sources... [ 44%] reference/brian2.core.preferences.parse_preference_name
+reading sources... [ 44%] reference/brian2.core.preferences.prefs
+reading sources... [ 44%] reference/brian2.core.spikesource.SpikeSource
+reading sources... [ 45%] reference/brian2.core.tracking.InstanceFollower
+reading sources... [ 45%] reference/brian2.core.tracking.InstanceTrackerSet
+reading sources... [ 45%] reference/brian2.core.tracking.Trackable
+reading sources... [ 45%] reference/brian2.core.variables.ArrayVariable
+reading sources... [ 45%] reference/brian2.core.variables.AuxiliaryVariable
+reading sources... [ 46%] reference/brian2.core.variables.Constant
+reading sources... [ 46%] reference/brian2.core.variables.DynamicArrayVariable
+reading sources... [ 46%] reference/brian2.core.variables.LinkedVariable
+reading sources... [ 46%] reference/brian2.core.variables.Subexpression
+reading sources... [ 46%] reference/brian2.core.variables.Variable
+reading sources... [ 46%] reference/brian2.core.variables.VariableView
+reading sources... [ 47%] reference/brian2.core.variables.Variables
+reading sources... [ 47%] reference/brian2.core.variables.get_dtype
+reading sources... [ 47%] reference/brian2.core.variables.get_dtype_str
+reading sources... [ 47%] reference/brian2.core.variables.linked_var
+reading sources... [ 47%] reference/brian2.core.variables.variables_by_owner
+reading sources... [ 48%] reference/brian2.devices
+reading sources... [ 48%] reference/brian2.devices.cpp_standalone
+reading sources... [ 48%] reference/brian2.devices.cpp_standalone.GSLcodeobject.GSLCPPStandaloneCodeObject
+reading sources... [ 48%] reference/brian2.devices.cpp_standalone.codeobject.CPPStandaloneCodeObject
+reading sources... [ 48%] reference/brian2.devices.cpp_standalone.codeobject.generate_rand_code
+reading sources... [ 49%] reference/brian2.devices.cpp_standalone.codeobject.openmp_pragma
+reading sources... [ 49%] reference/brian2.devices.cpp_standalone.device.CPPStandaloneDevice
+reading sources... [ 49%] reference/brian2.devices.cpp_standalone.device.CPPWriter
+reading sources... [ 49%] reference/brian2.devices.cpp_standalone.device.RunFunctionContext
+reading sources... [ 49%] reference/brian2.devices.cpp_standalone.device.cpp_standalone_device
+reading sources... [ 50%] reference/brian2.devices.cpp_standalone.device.invert_dict
+reading sources... [ 50%] reference/brian2.devices.device.CurrentDeviceProxy
+reading sources... [ 50%] reference/brian2.devices.device.Device
+reading sources... [ 50%] reference/brian2.devices.device.Dummy
+reading sources... [ 50%] reference/brian2.devices.device.RuntimeDevice
+reading sources... [ 51%] reference/brian2.devices.device.active_device
+reading sources... [ 51%] reference/brian2.devices.device.auto_target
+reading sources... [ 51%] reference/brian2.devices.device.device
+reading sources... [ 51%] reference/brian2.devices.device.get_device
+reading sources... [ 51%] reference/brian2.devices.device.reinit_and_delete
+reading sources... [ 52%] reference/brian2.devices.device.reinit_devices
+reading sources... [ 52%] reference/brian2.devices.device.reset_device
+reading sources... [ 52%] reference/brian2.devices.device.runtime_device
+reading sources... [ 52%] reference/brian2.devices.device.seed
+reading sources... [ 52%] reference/brian2.devices.device.set_device
+reading sources... [ 53%] reference/brian2.equations
+reading sources... [ 53%] reference/brian2.equations.codestrings.CodeString
+reading sources... [ 53%] reference/brian2.equations.codestrings.Expression
+reading sources... [ 53%] reference/brian2.equations.codestrings.Statements
+reading sources... [ 53%] reference/brian2.equations.codestrings.is_constant_over_dt
+reading sources... [ 54%] reference/brian2.equations.equations.EquationError
+reading sources... [ 54%] reference/brian2.equations.equations.Equations
+reading sources... [ 54%] reference/brian2.equations.equations.SingleEquation
+reading sources... [ 54%] reference/brian2.equations.equations.check_identifier_basic
+reading sources... [ 54%] reference/brian2.equations.equations.check_identifier_constants
+reading sources... [ 54%] reference/brian2.equations.equations.check_identifier_functions
+reading sources... [ 55%] reference/brian2.equations.equations.check_identifier_reserved
+reading sources... [ 55%] reference/brian2.equations.equations.check_identifier_units
+reading sources... [ 55%] reference/brian2.equations.equations.check_subexpressions
+reading sources... [ 55%] reference/brian2.equations.equations.dimensions_and_type_from_string
+reading sources... [ 55%] reference/brian2.equations.equations.extract_constant_subexpressions
+reading sources... [ 56%] reference/brian2.equations.equations.is_stateful
+reading sources... [ 56%] reference/brian2.equations.equations.parse_string_equations
+reading sources... [ 56%] reference/brian2.equations.refractory.add_refractoriness
+reading sources... [ 56%] reference/brian2.equations.refractory.check_identifier_refractory
+reading sources... [ 56%] reference/brian2.equations.unitcheck.check_dimensions
+reading sources... [ 57%] reference/brian2.equations.unitcheck.check_units_statements
+reading sources... [ 57%] reference/brian2.groups
+reading sources... [ 57%] reference/brian2.groups.group.CodeRunner
+reading sources... [ 57%] reference/brian2.groups.group.Group
+reading sources... [ 57%] reference/brian2.groups.group.IndexWrapper
+reading sources... [ 58%] reference/brian2.groups.group.Indexing
+reading sources... [ 58%] reference/brian2.groups.group.VariableOwner
+reading sources... [ 58%] reference/brian2.groups.group.get_dtype
+reading sources... [ 58%] reference/brian2.groups.neurongroup.NeuronGroup
+reading sources... [ 58%] reference/brian2.groups.neurongroup.Resetter
+reading sources... [ 59%] reference/brian2.groups.neurongroup.StateUpdater
+reading sources... [ 59%] reference/brian2.groups.neurongroup.SubexpressionUpdater
+reading sources... [ 59%] reference/brian2.groups.neurongroup.Thresholder
+reading sources... [ 59%] reference/brian2.groups.neurongroup.check_identifier_pre_post
+reading sources... [ 59%] reference/brian2.groups.neurongroup.to_start_stop
+reading sources... [ 60%] reference/brian2.groups.subgroup.Subgroup
+reading sources... [ 60%] reference/brian2.hears.BridgeSound
+reading sources... [ 60%] reference/brian2.hears.FilterbankGroup
+reading sources... [ 60%] reference/brian2.hears.Sound
+reading sources... [ 60%] reference/brian2.hears.WrappedSound
+reading sources... [ 61%] reference/brian2.hears.convert_unit_b1_to_b2
+reading sources... [ 61%] reference/brian2.hears.convert_unit_b2_to_b1
+reading sources... [ 61%] reference/brian2.hears.modify_arg
+reading sources... [ 61%] reference/brian2.hears.wrap_units
+reading sources... [ 61%] reference/brian2.hears.wrap_units_class
+reading sources... [ 62%] reference/brian2.hears.wrap_units_property
+reading sources... [ 62%] reference/brian2.importexport
+reading sources... [ 62%] reference/brian2.importexport.dictlike.DictImportExport
+reading sources... [ 62%] reference/brian2.importexport.dictlike.PandasImportExport
+reading sources... [ 62%] reference/brian2.importexport.importexport.ImportExport
+reading sources... [ 62%] reference/brian2.input
+reading sources... [ 63%] reference/brian2.input.binomial.BinomialFunction
+reading sources... [ 63%] reference/brian2.input.poissongroup.PoissonGroup
+reading sources... [ 63%] reference/brian2.input.poissoninput.PoissonInput
+reading sources... [ 63%] reference/brian2.input.spikegeneratorgroup.SpikeGeneratorGroup
+reading sources... [ 63%] reference/brian2.input.timedarray.TimedArray
+reading sources... [ 64%] reference/brian2.memory
+reading sources... [ 64%] reference/brian2.memory.dynamicarray.DynamicArray
+reading sources... [ 64%] reference/brian2.memory.dynamicarray.DynamicArray1D
+reading sources... [ 64%] reference/brian2.memory.dynamicarray.getslices
+reading sources... [ 64%] reference/brian2.monitors
+reading sources... [ 65%] reference/brian2.monitors.ratemonitor.PopulationRateMonitor
+reading sources... [ 65%] reference/brian2.monitors.spikemonitor.EventMonitor
+reading sources... [ 65%] reference/brian2.monitors.spikemonitor.SpikeMonitor
+reading sources... [ 65%] reference/brian2.monitors.statemonitor.StateMonitor
+reading sources... [ 65%] reference/brian2.monitors.statemonitor.StateMonitorView
+reading sources... [ 66%] reference/brian2.only.restore_initial_state
+reading sources... [ 66%] reference/brian2.parsing
+reading sources... [ 66%] reference/brian2.parsing.bast.BrianASTRenderer
+reading sources... [ 66%] reference/brian2.parsing.bast.brian_ast
+reading sources... [ 66%] reference/brian2.parsing.bast.brian_dtype_from_dtype
+reading sources... [ 67%] reference/brian2.parsing.bast.brian_dtype_from_value
+reading sources... [ 67%] reference/brian2.parsing.bast.is_boolean
+reading sources... [ 67%] reference/brian2.parsing.bast.is_boolean_dtype
+reading sources... [ 67%] reference/brian2.parsing.bast.is_float
+reading sources... [ 67%] reference/brian2.parsing.bast.is_float_dtype
+reading sources... [ 68%] reference/brian2.parsing.bast.is_integer
+reading sources... [ 68%] reference/brian2.parsing.bast.is_integer_dtype
+reading sources... [ 68%] reference/brian2.parsing.dependencies.abstract_code_dependencies
+reading sources... [ 68%] reference/brian2.parsing.dependencies.get_read_write_funcs
+reading sources... [ 68%] reference/brian2.parsing.expressions.is_boolean_expression
+reading sources... [ 69%] reference/brian2.parsing.expressions.parse_expression_dimensions
+reading sources... [ 69%] reference/brian2.parsing.functions.AbstractCodeFunction
+reading sources... [ 69%] reference/brian2.parsing.functions.FunctionRewriter
+reading sources... [ 69%] reference/brian2.parsing.functions.VarRewriter
+reading sources... [ 69%] reference/brian2.parsing.functions.abstract_code_from_function
+reading sources... [ 70%] reference/brian2.parsing.functions.extract_abstract_code_functions
+reading sources... [ 70%] reference/brian2.parsing.functions.substitute_abstract_code_functions
+reading sources... [ 70%] reference/brian2.parsing.rendering.CPPNodeRenderer
+reading sources... [ 70%] reference/brian2.parsing.rendering.NodeRenderer
+reading sources... [ 70%] reference/brian2.parsing.rendering.NumpyNodeRenderer
+reading sources... [ 71%] reference/brian2.parsing.rendering.SympyNodeRenderer
+reading sources... [ 71%] reference/brian2.parsing.rendering.get_node_value
+reading sources... [ 71%] reference/brian2.parsing.statements.parse_statement
+reading sources... [ 71%] reference/brian2.parsing.sympytools.CustomSympyPrinter
+reading sources... [ 71%] reference/brian2.parsing.sympytools.PRINTER
+reading sources... [ 71%] reference/brian2.parsing.sympytools.check_expression_for_multiple_stateful_functions
+reading sources... [ 72%] reference/brian2.parsing.sympytools.expression_complexity
+reading sources... [ 72%] reference/brian2.parsing.sympytools.str_to_sympy
+reading sources... [ 72%] reference/brian2.parsing.sympytools.sympy_to_str
+reading sources... [ 72%] reference/brian2.random
+reading sources... [ 72%] reference/brian2.spatialneuron
+reading sources... [ 73%] reference/brian2.spatialneuron.morphology.Children
+reading sources... [ 73%] reference/brian2.spatialneuron.morphology.Cylinder
+reading sources... [ 73%] reference/brian2.spatialneuron.morphology.Morphology
+reading sources... [ 73%] reference/brian2.spatialneuron.morphology.MorphologyIndexWrapper
+reading sources... [ 73%] reference/brian2.spatialneuron.morphology.Node
+reading sources... [ 74%] reference/brian2.spatialneuron.morphology.Section
+reading sources... [ 74%] reference/brian2.spatialneuron.morphology.Soma
+reading sources... [ 74%] reference/brian2.spatialneuron.morphology.SubMorphology
+reading sources... [ 74%] reference/brian2.spatialneuron.morphology.Topology
+reading sources... [ 74%] reference/brian2.spatialneuron.spatialneuron.FlatMorphology
+reading sources... [ 75%] reference/brian2.spatialneuron.spatialneuron.SpatialNeuron
+reading sources... [ 75%] reference/brian2.spatialneuron.spatialneuron.SpatialStateUpdater
+reading sources... [ 75%] reference/brian2.spatialneuron.spatialneuron.SpatialSubgroup
+reading sources... [ 75%] reference/brian2.stateupdaters
+reading sources... [ 75%] reference/brian2.stateupdaters.GSL.GSLContainer
+reading sources... [ 76%] reference/brian2.stateupdaters.GSL.GSLStateUpdater
+reading sources... [ 76%] reference/brian2.stateupdaters.GSL.gsl_rk2
+reading sources... [ 76%] reference/brian2.stateupdaters.GSL.gsl_rk4
+reading sources... [ 76%] reference/brian2.stateupdaters.GSL.gsl_rk8pd
+reading sources... [ 76%] reference/brian2.stateupdaters.GSL.gsl_rkck
+reading sources... [ 77%] reference/brian2.stateupdaters.GSL.gsl_rkf45
+reading sources... [ 77%] reference/brian2.stateupdaters.base.StateUpdateMethod
+reading sources... [ 77%] reference/brian2.stateupdaters.base.UnsupportedEquationsException
+reading sources... [ 77%] reference/brian2.stateupdaters.base.extract_method_options
+reading sources... [ 77%] reference/brian2.stateupdaters.exact.IndependentStateUpdater
+reading sources... [ 78%] reference/brian2.stateupdaters.exact.LinearStateUpdater
+reading sources... [ 78%] reference/brian2.stateupdaters.exact.exact
+reading sources... [ 78%] reference/brian2.stateupdaters.exact.get_linear_system
+reading sources... [ 78%] reference/brian2.stateupdaters.exact.independent
+reading sources... [ 78%] reference/brian2.stateupdaters.exact.linear
+reading sources... [ 79%] reference/brian2.stateupdaters.explicit.ExplicitStateUpdater
+reading sources... [ 79%] reference/brian2.stateupdaters.explicit.diagonal_noise
+reading sources... [ 79%] reference/brian2.stateupdaters.explicit.euler
+reading sources... [ 79%] reference/brian2.stateupdaters.explicit.heun
+reading sources... [ 79%] reference/brian2.stateupdaters.explicit.milstein
+reading sources... [ 79%] reference/brian2.stateupdaters.explicit.rk2
+reading sources... [ 80%] reference/brian2.stateupdaters.explicit.rk4
+reading sources... [ 80%] reference/brian2.stateupdaters.explicit.split_expression
+reading sources... [ 80%] reference/brian2.stateupdaters.exponential_euler.ExponentialEulerStateUpdater
+reading sources... [ 80%] reference/brian2.stateupdaters.exponential_euler.exponential_euler
+reading sources... [ 80%] reference/brian2.stateupdaters.exponential_euler.get_conditionally_linear_system
+reading sources... [ 81%] reference/brian2.synapses
+reading sources... [ 81%] reference/brian2.synapses.parse_synaptic_generator_syntax.handle_range
+reading sources... [ 81%] reference/brian2.synapses.parse_synaptic_generator_syntax.handle_sample
+reading sources... [ 81%] reference/brian2.synapses.parse_synaptic_generator_syntax.parse_synapse_generator
+reading sources... [ 81%] reference/brian2.synapses.spikequeue.SpikeQueue
+reading sources... [ 82%] reference/brian2.synapses.synapses.StateUpdater
+reading sources... [ 82%] reference/brian2.synapses.synapses.SummedVariableUpdater
+reading sources... [ 82%] reference/brian2.synapses.synapses.Synapses
+reading sources... [ 82%] reference/brian2.synapses.synapses.SynapticIndexing
+reading sources... [ 82%] reference/brian2.synapses.synapses.SynapticPathway
+reading sources... [ 83%] reference/brian2.synapses.synapses.SynapticSubgroup
+reading sources... [ 83%] reference/brian2.synapses.synapses.find_synapses
+reading sources... [ 83%] reference/brian2.synapses.synapses.slice_to_test
+reading sources... [ 83%] reference/brian2.units
+reading sources... [ 83%] reference/brian2.units.allunits.celsius
+reading sources... [ 84%] reference/brian2.units.fundamentalunits.DIMENSIONLESS
+reading sources... [ 84%] reference/brian2.units.fundamentalunits.Dimension
+reading sources... [ 84%] reference/brian2.units.fundamentalunits.DimensionMismatchError
+reading sources... [ 84%] reference/brian2.units.fundamentalunits.Quantity
+reading sources... [ 84%] reference/brian2.units.fundamentalunits.Unit
+reading sources... [ 85%] reference/brian2.units.fundamentalunits.UnitRegistry
+reading sources... [ 85%] reference/brian2.units.fundamentalunits.additional_unit_register
+reading sources... [ 85%] reference/brian2.units.fundamentalunits.check_units
+reading sources... [ 85%] reference/brian2.units.fundamentalunits.fail_for_dimension_mismatch
+reading sources... [ 85%] reference/brian2.units.fundamentalunits.get_dimensions
+reading sources... [ 86%] reference/brian2.units.fundamentalunits.get_or_create_dimension
+reading sources... [ 86%] reference/brian2.units.fundamentalunits.get_unit
+reading sources... [ 86%] reference/brian2.units.fundamentalunits.get_unit_for_display
+reading sources... [ 86%] reference/brian2.units.fundamentalunits.have_same_dimensions
+reading sources... [ 86%] reference/brian2.units.fundamentalunits.in_best_unit
+reading sources... [ 87%] reference/brian2.units.fundamentalunits.in_unit
+reading sources... [ 87%] reference/brian2.units.fundamentalunits.is_dimensionless
+reading sources... [ 87%] reference/brian2.units.fundamentalunits.is_scalar_type
+reading sources... [ 87%] reference/brian2.units.fundamentalunits.quantity_with_dimensions
+reading sources... [ 87%] reference/brian2.units.fundamentalunits.register_new_unit
+reading sources... [ 88%] reference/brian2.units.fundamentalunits.standard_unit_register
+reading sources... [ 88%] reference/brian2.units.fundamentalunits.user_unit_register
+reading sources... [ 88%] reference/brian2.units.fundamentalunits.wrap_function_change_dimensions
+reading sources... [ 88%] reference/brian2.units.fundamentalunits.wrap_function_dimensionless
+reading sources... [ 88%] reference/brian2.units.fundamentalunits.wrap_function_keep_dimensions
+reading sources... [ 88%] reference/brian2.units.fundamentalunits.wrap_function_remove_dimensions
+reading sources... [ 89%] reference/brian2.units.unitsafefunctions.arange
+reading sources... [ 89%] reference/brian2.units.unitsafefunctions.arccos
+reading sources... [ 89%] reference/brian2.units.unitsafefunctions.arccosh
+reading sources... [ 89%] reference/brian2.units.unitsafefunctions.arcsin
+reading sources... [ 89%] reference/brian2.units.unitsafefunctions.arcsinh
+reading sources... [ 90%] reference/brian2.units.unitsafefunctions.arctan
+reading sources... [ 90%] reference/brian2.units.unitsafefunctions.arctanh
+reading sources... [ 90%] reference/brian2.units.unitsafefunctions.cos
+reading sources... [ 90%] reference/brian2.units.unitsafefunctions.cosh
+reading sources... [ 90%] reference/brian2.units.unitsafefunctions.diagonal
+reading sources... [ 91%] reference/brian2.units.unitsafefunctions.dot
+reading sources... [ 91%] reference/brian2.units.unitsafefunctions.exp
+reading sources... [ 91%] reference/brian2.units.unitsafefunctions.linspace
+reading sources... [ 91%] reference/brian2.units.unitsafefunctions.log
+reading sources... [ 91%] reference/brian2.units.unitsafefunctions.ravel
+reading sources... [ 92%] reference/brian2.units.unitsafefunctions.sin
+reading sources... [ 92%] reference/brian2.units.unitsafefunctions.sinh
+reading sources... [ 92%] reference/brian2.units.unitsafefunctions.tan
+reading sources... [ 92%] reference/brian2.units.unitsafefunctions.tanh
+reading sources... [ 92%] reference/brian2.units.unitsafefunctions.trace
+reading sources... [ 93%] reference/brian2.units.unitsafefunctions.where
+reading sources... [ 93%] reference/brian2.units.unitsafefunctions.wrap_function_to_method
+reading sources... [ 93%] reference/brian2.utils
+reading sources... [ 93%] reference/brian2.utils.arrays.calc_repeats
+reading sources... [ 93%] reference/brian2.utils.caching.CacheKey
+reading sources... [ 94%] reference/brian2.utils.caching.cached
+reading sources... [ 94%] reference/brian2.utils.environment.running_from_ipython
+reading sources... [ 94%] reference/brian2.utils.filelock.BaseFileLock
+reading sources... [ 94%] reference/brian2.utils.filelock.FileLock
+reading sources... [ 94%] reference/brian2.utils.filelock.SoftFileLock
+reading sources... [ 95%] reference/brian2.utils.filelock.Timeout
+reading sources... [ 95%] reference/brian2.utils.filelock.UnixFileLock
+reading sources... [ 95%] reference/brian2.utils.filelock.WindowsFileLock
+reading sources... [ 95%] reference/brian2.utils.filelock.logger
+reading sources... [ 95%] reference/brian2.utils.filetools.copy_directory
+reading sources... [ 96%] reference/brian2.utils.filetools.ensure_directory
+reading sources... [ 96%] reference/brian2.utils.filetools.ensure_directory_of_file
+reading sources... [ 96%] reference/brian2.utils.filetools.in_directory
+reading sources... [ 96%] reference/brian2.utils.logger.BrianLogger
+reading sources... [ 96%] reference/brian2.utils.logger.HierarchyFilter
+reading sources... [ 96%] reference/brian2.utils.logger.LogCapture
+reading sources... [ 97%] reference/brian2.utils.logger.NameFilter
+reading sources... [ 97%] reference/brian2.utils.logger.brian_excepthook
+reading sources... [ 97%] reference/brian2.utils.logger.catch_logs
+reading sources... [ 97%] reference/brian2.utils.logger.clean_up_logging
+reading sources... [ 97%] reference/brian2.utils.logger.get_logger
+reading sources... [ 98%] reference/brian2.utils.logger.log_level_validator
+reading sources... [ 98%] reference/brian2.utils.logger.std_silent
+reading sources... [ 98%] reference/brian2.utils.stringtools.SpellChecker
+reading sources... [ 98%] reference/brian2.utils.stringtools.code_representation
+reading sources... [ 98%] reference/brian2.utils.stringtools.deindent
+reading sources... [ 99%] reference/brian2.utils.stringtools.get_identifiers
+reading sources... [ 99%] reference/brian2.utils.stringtools.indent
+reading sources... [ 99%] reference/brian2.utils.stringtools.replace
+reading sources... [ 99%] reference/brian2.utils.stringtools.strip_empty_leading_and_trailing_lines
+reading sources... [ 99%] reference/brian2.utils.stringtools.strip_empty_lines
+reading sources... [100%] reference/brian2.utils.stringtools.stripped_deindented_lines
+reading sources... [100%] reference/brian2.utils.stringtools.word_substitute
+reading sources... [100%] reference/brian2.utils.topsort.topsort
+
+looking for now-outdated files... none found
+pickling environment... done
+checking consistency... done
+preparing documents... done
+copying assets... copying downloadable files... [ 12%] examples/frompapers/Spreizer_et_al_2019/perlin1.npy
+copying downloadable files... [ 25%] examples/frompapers/Spreizer_et_al_2019/perlin2.npy
+copying downloadable files... [ 38%] examples/frompapers/Spreizer_et_al_2019/perlin3.npy
+copying downloadable files... [ 50%] examples/frompapers/Spreizer_et_al_2019/perlin4.npy
+copying downloadable files... [ 62%] examples/frompapers/Spreizer_et_al_2019/perlin5.npy
+copying downloadable files... [ 75%] resources/tutorials/1-intro-to-brian-neurons.ipynb
+copying downloadable files... [ 88%] resources/tutorials/2-intro-to-brian-synapses.ipynb
+copying downloadable files... [100%] resources/tutorials/3-intro-to-brian-simulations.ipynb
+
+copying static files... done
+copying extra files... done
+done
+writing output... [  0%] examples/COBAHH
+writing output... [  0%] examples/CUBA
+writing output... [  1%] examples/IF_curve_Hodgkin_Huxley
+writing output... [  1%] examples/IF_curve_LIF
+writing output... [  1%] examples/adaptive_threshold
+writing output... [  1%] examples/advanced.COBAHH_approximated
+writing output... [  1%] examples/advanced.Ornstein_Uhlenbeck
+writing output... [  2%] examples/advanced.compare_GSL_to_conventional
+writing output... [  2%] examples/advanced.custom_events
+writing output... [  2%] examples/advanced.exprel_function
+writing output... [  2%] examples/advanced.float_32_64_benchmark
+writing output... [  2%] examples/advanced.modelfitting_sbi
+writing output... [  3%] examples/advanced.opencv_movie
+writing output... [  3%] examples/advanced.stochastic_odes
+writing output... [  3%] examples/compartmental.bipolar_cell
+writing output... [  3%] examples/compartmental.bipolar_with_inputs
+writing output... [  3%] examples/compartmental.bipolar_with_inputs2
+writing output... [  4%] examples/compartmental.cylinder
+writing output... [  4%] examples/compartmental.hh_with_spikes
+writing output... [  4%] examples/compartmental.hodgkin_huxley_1952
+writing output... [  4%] examples/compartmental.infinite_cable
+writing output... [  4%] examples/compartmental.lfp
+writing output... [  4%] examples/compartmental.morphotest
+writing output... [  5%] examples/compartmental.rall
+writing output... [  5%] examples/compartmental.spike_initiation
+writing output... [  5%] examples/coupled_oscillators
+writing output... [  5%] examples/frompapers.Brette_2004
+writing output... [  5%] examples/frompapers.Brette_2012.Fig1
+writing output... [  6%] examples/frompapers.Brette_2012.Fig3AB
+writing output... [  6%] examples/frompapers.Brette_2012.Fig3CF
+writing output... [  6%] examples/frompapers.Brette_2012.Fig4
+writing output... [  6%] examples/frompapers.Brette_2012.Fig5A
+writing output... [  6%] examples/frompapers.Brette_2012.README.txt
+writing output... [  7%] examples/frompapers.Brette_2012.params
+writing output... [  7%] examples/frompapers.Brette_Gerstner_2005
+writing output... [  7%] examples/frompapers.Brette_Guigon_2003
+writing output... [  7%] examples/frompapers.Brunel_2000
+writing output... [  7%] examples/frompapers.Brunel_Hakim_1999
+writing output... [  8%] examples/frompapers.Brunel_Wang_2001
+writing output... [  8%] examples/frompapers.Clopath_et_al_2010_homeostasis
+writing output... [  8%] examples/frompapers.Clopath_et_al_2010_no_homeostasis
+writing output... [  8%] examples/frompapers.Destexhe_et_al_1998
+writing output... [  8%] examples/frompapers.Diesmann_et_al_1999
+writing output... [  9%] examples/frompapers.Graupner_Brunel_2012
+writing output... [  9%] examples/frompapers.Hindmarsh_Rose_1984
+writing output... [  9%] examples/frompapers.Izhikevich_2003
+writing output... [  9%] examples/frompapers.Izhikevich_2007
+writing output... [  9%] examples/frompapers.Jansen_Rit_1995_single_column
+writing output... [ 10%] examples/frompapers.Kremer_et_al_2011_barrel_cortex
+writing output... [ 10%] examples/frompapers.Maass_Natschlaeger_Markram_2002
+writing output... [ 10%] examples/frompapers.Morris_Lecar_1981
+writing output... [ 10%] examples/frompapers.Naud_et_al_2008_adex_firing_patterns
+writing output... [ 10%] examples/frompapers.Nicola_Clopath_2017
+writing output... [ 11%] examples/frompapers.Platkiewicz_Brette_2011
+writing output... [ 11%] examples/frompapers.Rossant_et_al_2011bis
+writing output... [ 11%] examples/frompapers.Rothman_Manis_2003
+writing output... [ 11%] examples/frompapers.Spreizer_et_al_2019.Spreizer_et_al_2019
+writing output... [ 11%] examples/frompapers.Stimberg_et_al_2018.README.md
+writing output... [ 12%] examples/frompapers.Stimberg_et_al_2018.example_1_COBA
+writing output... [ 12%] examples/frompapers.Stimberg_et_al_2018.example_2_gchi_astrocyte
+writing output... [ 12%] examples/frompapers.Stimberg_et_al_2018.example_3_io_synapse
+writing output... [ 12%] examples/frompapers.Stimberg_et_al_2018.example_4_rsmean
+writing output... [ 12%] examples/frompapers.Stimberg_et_al_2018.example_4_synrel
+writing output... [ 12%] examples/frompapers.Stimberg_et_al_2018.example_5_astro_ring
+writing output... [ 13%] examples/frompapers.Stimberg_et_al_2018.example_6_COBA_with_astro
+writing output... [ 13%] examples/frompapers.Stimberg_et_al_2018.figures.mplstyle
+writing output... [ 13%] examples/frompapers.Stimberg_et_al_2018.plot_utils
+writing output... [ 13%] examples/frompapers.Stimberg_et_al_2019.example_3_bisection
+writing output... [ 13%] examples/frompapers.Stimberg_et_al_2019.example_3_bisection_standalone
+writing output... [ 14%] examples/frompapers.Sturzl_et_al_2000
+writing output... [ 14%] examples/frompapers.Tetzlaff_2015
+writing output... [ 14%] examples/frompapers.Touboul_Brette_2008
+writing output... [ 14%] examples/frompapers.Tsodyks_Pawelzik_Markram_1998
+writing output... [ 14%] examples/frompapers.Tsodyks_Uziel_Markram_2000
+writing output... [ 15%] examples/frompapers.Vogels_et_al_2011
+writing output... [ 15%] examples/frompapers.Wang_2002
+writing output... [ 15%] examples/frompapers.Wang_Buszaki_1996
+writing output... [ 15%] examples/index
+writing output... [ 15%] examples/multiprocessing.01_using_cython
+writing output... [ 16%] examples/multiprocessing.02_using_standalone
+writing output... [ 16%] examples/multiprocessing.03_standalone_joblib
+writing output... [ 16%] examples/non_reliability
+writing output... [ 16%] examples/phase_locking
+writing output... [ 16%] examples/reliability
+writing output... [ 17%] examples/standalone.STDP_standalone
+writing output... [ 17%] examples/standalone.cuba_openmp
+writing output... [ 17%] examples/standalone.simple_case
+writing output... [ 17%] examples/standalone.simple_case_build
+writing output... [ 17%] examples/standalone.standalone_multiple_processes
+writing output... [ 18%] examples/standalone.standalone_multiplerun
+writing output... [ 18%] examples/synapses.STDP
+writing output... [ 18%] examples/synapses.continuous_interaction
+writing output... [ 18%] examples/synapses.efficient_gaussian_connectivity
+writing output... [ 18%] examples/synapses.gapjunctions
+writing output... [ 19%] examples/synapses.jeffress
+writing output... [ 19%] examples/synapses.licklider
+writing output... [ 19%] examples/synapses.nonlinear
+writing output... [ 19%] examples/synapses.spatial_connections
+writing output... [ 19%] examples/synapses.spike_based_homeostasis
+writing output... [ 19%] examples/synapses.state_variables
+writing output... [ 20%] examples/synapses.synapses
+writing output... [ 20%] index
+writing output... [ 20%] reference/brian2
+writing output... [ 20%] reference/brian2.__init__.check_cache
+writing output... [ 20%] reference/brian2.__init__.clear_cache
+writing output... [ 21%] reference/brian2.codegen
+writing output... [ 21%] reference/brian2.codegen.codeobject.CodeObject
+writing output... [ 21%] reference/brian2.codegen.codeobject.check_compiler_kwds
+writing output... [ 21%] reference/brian2.codegen.codeobject.constant_or_scalar
+writing output... [ 21%] reference/brian2.codegen.codeobject.create_runner_codeobj
+writing output... [ 22%] reference/brian2.codegen.cpp_prefs.C99Check
+writing output... [ 22%] reference/brian2.codegen.cpp_prefs.compiler_supports_c99
+writing output... [ 22%] reference/brian2.codegen.cpp_prefs.get_compiler_and_args
+writing output... [ 22%] reference/brian2.codegen.cpp_prefs.get_msvc_env
+writing output... [ 22%] reference/brian2.codegen.cpp_prefs.has_flag
+writing output... [ 23%] reference/brian2.codegen.generators
+writing output... [ 23%] reference/brian2.codegen.generators.GSL_generator.GSLCPPCodeGenerator
+writing output... [ 23%] reference/brian2.codegen.generators.GSL_generator.GSLCodeGenerator
+writing output... [ 23%] reference/brian2.codegen.generators.GSL_generator.GSLCythonCodeGenerator
+writing output... [ 23%] reference/brian2.codegen.generators.GSL_generator.valid_gsl_dir
+writing output... [ 24%] reference/brian2.codegen.generators.base.CodeGenerator
+writing output... [ 24%] reference/brian2.codegen.generators.cpp_generator.CPPCodeGenerator
+writing output... [ 24%] reference/brian2.codegen.generators.cpp_generator.c_data_type
+writing output... [ 24%] reference/brian2.codegen.generators.cython_generator.CythonCodeGenerator
+writing output... [ 24%] reference/brian2.codegen.generators.cython_generator.CythonNodeRenderer
+writing output... [ 25%] reference/brian2.codegen.generators.cython_generator.get_cpp_dtype
+writing output... [ 25%] reference/brian2.codegen.generators.cython_generator.get_numpy_dtype
+writing output... [ 25%] reference/brian2.codegen.generators.numpy_generator.NumpyCodeGenerator
+writing output... [ 25%] reference/brian2.codegen.generators.numpy_generator.VectorisationError
+writing output... [ 25%] reference/brian2.codegen.generators.numpy_generator.ceil_func
+writing output... [ 26%] reference/brian2.codegen.generators.numpy_generator.clip_func
+writing output... [ 26%] reference/brian2.codegen.generators.numpy_generator.floor_func
+writing output... [ 26%] reference/brian2.codegen.generators.numpy_generator.int_func
+writing output... [ 26%] reference/brian2.codegen.generators.numpy_generator.poisson_func
+writing output... [ 26%] reference/brian2.codegen.generators.numpy_generator.rand_func
+writing output... [ 27%] reference/brian2.codegen.generators.numpy_generator.randn_func
+writing output... [ 27%] reference/brian2.codegen.optimisation.ArithmeticSimplifier
+writing output... [ 27%] reference/brian2.codegen.optimisation.Simplifier
+writing output... [ 27%] reference/brian2.codegen.optimisation.cancel_identical_terms
+writing output... [ 27%] reference/brian2.codegen.optimisation.collect
+writing output... [ 27%] reference/brian2.codegen.optimisation.collect_commutative
+writing output... [ 28%] reference/brian2.codegen.optimisation.evaluate_expr
+writing output... [ 28%] reference/brian2.codegen.optimisation.expression_complexity
+writing output... [ 28%] reference/brian2.codegen.optimisation.optimise_statements
+writing output... [ 28%] reference/brian2.codegen.optimisation.reduced_node
+writing output... [ 28%] reference/brian2.codegen.permutation_analysis.OrderDependenceError
+writing output... [ 29%] reference/brian2.codegen.permutation_analysis.check_for_order_independence
+writing output... [ 29%] reference/brian2.codegen.runtime
+writing output... [ 29%] reference/brian2.codegen.runtime.GSLcython_rt
+writing output... [ 29%] reference/brian2.codegen.runtime.GSLcython_rt.GSLcython_rt.GSLCompileError
+writing output... [ 29%] reference/brian2.codegen.runtime.GSLcython_rt.GSLcython_rt.GSLCythonCodeObject
+writing output... [ 30%] reference/brian2.codegen.runtime.GSLcython_rt.GSLcython_rt.IntegrationError
+writing output... [ 30%] reference/brian2.codegen.runtime.cython_rt
+writing output... [ 30%] reference/brian2.codegen.runtime.cython_rt.cython_rt.CythonCodeObject
+writing output... [ 30%] reference/brian2.codegen.runtime.cython_rt.extension_manager.CythonExtensionManager
+writing output... [ 30%] reference/brian2.codegen.runtime.cython_rt.extension_manager.cython_extension_manager
+writing output... [ 31%] reference/brian2.codegen.runtime.cython_rt.extension_manager.get_cython_cache_dir
+writing output... [ 31%] reference/brian2.codegen.runtime.cython_rt.extension_manager.get_cython_extensions
+writing output... [ 31%] reference/brian2.codegen.runtime.cython_rt.extension_manager.simplify_path_env_var
+writing output... [ 31%] reference/brian2.codegen.runtime.numpy_rt
+writing output... [ 31%] reference/brian2.codegen.runtime.numpy_rt.numpy_rt.LazyArange
+writing output... [ 32%] reference/brian2.codegen.runtime.numpy_rt.numpy_rt.NumpyCodeObject
+writing output... [ 32%] reference/brian2.codegen.statements.Statement
+writing output... [ 32%] reference/brian2.codegen.templates.CodeObjectTemplate
+writing output... [ 32%] reference/brian2.codegen.templates.LazyTemplateLoader
+writing output... [ 32%] reference/brian2.codegen.templates.MultiTemplate
+writing output... [ 33%] reference/brian2.codegen.templates.Templater
+writing output... [ 33%] reference/brian2.codegen.templates.autoindent
+writing output... [ 33%] reference/brian2.codegen.templates.autoindent_postfilter
+writing output... [ 33%] reference/brian2.codegen.templates.variables_to_array_names
+writing output... [ 33%] reference/brian2.codegen.translation.LineInfo
+writing output... [ 34%] reference/brian2.codegen.translation.analyse_identifiers
+writing output... [ 34%] reference/brian2.codegen.translation.get_identifiers_recursively
+writing output... [ 34%] reference/brian2.codegen.translation.is_scalar_expression
+writing output... [ 34%] reference/brian2.codegen.translation.make_statements
+writing output... [ 34%] reference/brian2.core
+writing output... [ 35%] reference/brian2.core.base.BrianObject
+writing output... [ 35%] reference/brian2.core.base.BrianObjectException
+writing output... [ 35%] reference/brian2.core.base.brian_object_exception
+writing output... [ 35%] reference/brian2.core.base.device_override
+writing output... [ 35%] reference/brian2.core.base.weakproxy_with_fallback
+writing output... [ 35%] reference/brian2.core.clocks.Clock
+writing output... [ 36%] reference/brian2.core.clocks.DefaultClockProxy
+writing output... [ 36%] reference/brian2.core.clocks.check_dt
+writing output... [ 36%] reference/brian2.core.clocks.defaultclock
+writing output... [ 36%] reference/brian2.core.core_preferences.default_float_dtype_validator
+writing output... [ 36%] reference/brian2.core.core_preferences.dtype_repr
+writing output... [ 37%] reference/brian2.core.functions.Function
+writing output... [ 37%] reference/brian2.core.functions.FunctionImplementation
+writing output... [ 37%] reference/brian2.core.functions.FunctionImplementationContainer
+writing output... [ 37%] reference/brian2.core.functions.SymbolicConstant
+writing output... [ 37%] reference/brian2.core.functions.declare_types
+writing output... [ 38%] reference/brian2.core.functions.exprel
+writing output... [ 38%] reference/brian2.core.functions.implementation
+writing output... [ 38%] reference/brian2.core.functions.timestep
+writing output... [ 38%] reference/brian2.core.magic.MagicError
+writing output... [ 38%] reference/brian2.core.magic.MagicNetwork
+writing output... [ 39%] reference/brian2.core.magic.collect
+writing output... [ 39%] reference/brian2.core.magic.get_objects_in_namespace
+writing output... [ 39%] reference/brian2.core.magic.magic_network
+writing output... [ 39%] reference/brian2.core.magic.restore
+writing output... [ 39%] reference/brian2.core.magic.run
+writing output... [ 40%] reference/brian2.core.magic.start_scope
+writing output... [ 40%] reference/brian2.core.magic.stop
+writing output... [ 40%] reference/brian2.core.magic.store
+writing output... [ 40%] reference/brian2.core.names.Nameable
+writing output... [ 40%] reference/brian2.core.names.find_name
+writing output... [ 41%] reference/brian2.core.namespace.get_local_namespace
+writing output... [ 41%] reference/brian2.core.network.Network
+writing output... [ 41%] reference/brian2.core.network.ProfilingSummary
+writing output... [ 41%] reference/brian2.core.network.SchedulingSummary
+writing output... [ 41%] reference/brian2.core.network.TextReport
+writing output... [ 42%] reference/brian2.core.network.profiling_summary
+writing output... [ 42%] reference/brian2.core.network.schedule_propagation_offset
+writing output... [ 42%] reference/brian2.core.network.scheduling_summary
+writing output... [ 42%] reference/brian2.core.operations.NetworkOperation
+writing output... [ 42%] reference/brian2.core.operations.network_operation
+writing output... [ 42%] reference/brian2.core.preferences.BrianGlobalPreferences
+writing output... [ 43%] reference/brian2.core.preferences.BrianGlobalPreferencesView
+writing output... [ 43%] reference/brian2.core.preferences.BrianPreference
+writing output... [ 43%] reference/brian2.core.preferences.DefaultValidator
+writing output... [ 43%] reference/brian2.core.preferences.ErrorRaiser
+writing output... [ 43%] reference/brian2.core.preferences.PreferenceError
+writing output... [ 44%] reference/brian2.core.preferences.brian_prefs
+writing output... [ 44%] reference/brian2.core.preferences.check_preference_name
+writing output... [ 44%] reference/brian2.core.preferences.parse_preference_name
+writing output... [ 44%] reference/brian2.core.preferences.prefs
+writing output... [ 44%] reference/brian2.core.spikesource.SpikeSource
+writing output... [ 45%] reference/brian2.core.tracking.InstanceFollower
+writing output... [ 45%] reference/brian2.core.tracking.InstanceTrackerSet
+writing output... [ 45%] reference/brian2.core.tracking.Trackable
+writing output... [ 45%] reference/brian2.core.variables.ArrayVariable
+writing output... [ 45%] reference/brian2.core.variables.AuxiliaryVariable
+writing output... [ 46%] reference/brian2.core.variables.Constant
+writing output... [ 46%] reference/brian2.core.variables.DynamicArrayVariable
+writing output... [ 46%] reference/brian2.core.variables.LinkedVariable
+writing output... [ 46%] reference/brian2.core.variables.Subexpression
+writing output... [ 46%] reference/brian2.core.variables.Variable
+writing output... [ 47%] reference/brian2.core.variables.VariableView
+writing output... [ 47%] reference/brian2.core.variables.Variables
+writing output... [ 47%] reference/brian2.core.variables.get_dtype
+writing output... [ 47%] reference/brian2.core.variables.get_dtype_str
+writing output... [ 47%] reference/brian2.core.variables.linked_var
+writing output... [ 48%] reference/brian2.core.variables.variables_by_owner
+writing output... [ 48%] reference/brian2.devices
+writing output... [ 48%] reference/brian2.devices.cpp_standalone
+writing output... [ 48%] reference/brian2.devices.cpp_standalone.GSLcodeobject.GSLCPPStandaloneCodeObject
+writing output... [ 48%] reference/brian2.devices.cpp_standalone.codeobject.CPPStandaloneCodeObject
+writing output... [ 49%] reference/brian2.devices.cpp_standalone.codeobject.generate_rand_code
+writing output... [ 49%] reference/brian2.devices.cpp_standalone.codeobject.openmp_pragma
+writing output... [ 49%] reference/brian2.devices.cpp_standalone.device.CPPStandaloneDevice
+writing output... [ 49%] reference/brian2.devices.cpp_standalone.device.CPPWriter
+writing output... [ 49%] reference/brian2.devices.cpp_standalone.device.RunFunctionContext
+writing output... [ 50%] reference/brian2.devices.cpp_standalone.device.cpp_standalone_device
+writing output... [ 50%] reference/brian2.devices.cpp_standalone.device.invert_dict
+writing output... [ 50%] reference/brian2.devices.device.CurrentDeviceProxy
+writing output... [ 50%] reference/brian2.devices.device.Device
+writing output... [ 50%] reference/brian2.devices.device.Dummy
+writing output... [ 50%] reference/brian2.devices.device.RuntimeDevice
+writing output... [ 51%] reference/brian2.devices.device.active_device
+writing output... [ 51%] reference/brian2.devices.device.auto_target
+writing output... [ 51%] reference/brian2.devices.device.device
+writing output... [ 51%] reference/brian2.devices.device.get_device
+writing output... [ 51%] reference/brian2.devices.device.reinit_and_delete
+writing output... [ 52%] reference/brian2.devices.device.reinit_devices
+writing output... [ 52%] reference/brian2.devices.device.reset_device
+writing output... [ 52%] reference/brian2.devices.device.runtime_device
+writing output... [ 52%] reference/brian2.devices.device.seed
+writing output... [ 52%] reference/brian2.devices.device.set_device
+writing output... [ 53%] reference/brian2.equations
+writing output... [ 53%] reference/brian2.equations.codestrings.CodeString
+writing output... [ 53%] reference/brian2.equations.codestrings.Expression
+writing output... [ 53%] reference/brian2.equations.codestrings.Statements
+writing output... [ 53%] reference/brian2.equations.codestrings.is_constant_over_dt
+writing output... [ 54%] reference/brian2.equations.equations.EquationError
+writing output... [ 54%] reference/brian2.equations.equations.Equations
+writing output... [ 54%] reference/brian2.equations.equations.SingleEquation
+writing output... [ 54%] reference/brian2.equations.equations.check_identifier_basic
+writing output... [ 54%] reference/brian2.equations.equations.check_identifier_constants
+writing output... [ 55%] reference/brian2.equations.equations.check_identifier_functions
+writing output... [ 55%] reference/brian2.equations.equations.check_identifier_reserved
+writing output... [ 55%] reference/brian2.equations.equations.check_identifier_units
+writing output... [ 55%] reference/brian2.equations.equations.check_subexpressions
+writing output... [ 55%] reference/brian2.equations.equations.dimensions_and_type_from_string
+writing output... [ 56%] reference/brian2.equations.equations.extract_constant_subexpressions
+writing output... [ 56%] reference/brian2.equations.equations.is_stateful
+writing output... [ 56%] reference/brian2.equations.equations.parse_string_equations
+writing output... [ 56%] reference/brian2.equations.refractory.add_refractoriness
+writing output... [ 56%] reference/brian2.equations.refractory.check_identifier_refractory
+writing output... [ 57%] reference/brian2.equations.unitcheck.check_dimensions
+writing output... [ 57%] reference/brian2.equations.unitcheck.check_units_statements
+writing output... [ 57%] reference/brian2.groups
+writing output... [ 57%] reference/brian2.groups.group.CodeRunner
+writing output... [ 57%] reference/brian2.groups.group.Group
+writing output... [ 58%] reference/brian2.groups.group.IndexWrapper
+writing output... [ 58%] reference/brian2.groups.group.Indexing
+writing output... [ 58%] reference/brian2.groups.group.VariableOwner
+writing output... [ 58%] reference/brian2.groups.group.get_dtype
+writing output... [ 58%] reference/brian2.groups.neurongroup.NeuronGroup
+writing output... [ 58%] reference/brian2.groups.neurongroup.Resetter
+writing output... [ 59%] reference/brian2.groups.neurongroup.StateUpdater
+writing output... [ 59%] reference/brian2.groups.neurongroup.SubexpressionUpdater
+writing output... [ 59%] reference/brian2.groups.neurongroup.Thresholder
+writing output... [ 59%] reference/brian2.groups.neurongroup.check_identifier_pre_post
+writing output... [ 59%] reference/brian2.groups.neurongroup.to_start_stop
+writing output... [ 60%] reference/brian2.groups.subgroup.Subgroup
+writing output... [ 60%] reference/brian2.hears.BridgeSound
+writing output... [ 60%] reference/brian2.hears.FilterbankGroup
+writing output... [ 60%] reference/brian2.hears.Sound
+writing output... [ 60%] reference/brian2.hears.WrappedSound
+writing output... [ 61%] reference/brian2.hears.convert_unit_b1_to_b2
+writing output... [ 61%] reference/brian2.hears.convert_unit_b2_to_b1
+writing output... [ 61%] reference/brian2.hears.modify_arg
+writing output... [ 61%] reference/brian2.hears.wrap_units
+writing output... [ 61%] reference/brian2.hears.wrap_units_class
+writing output... [ 62%] reference/brian2.hears.wrap_units_property
+writing output... [ 62%] reference/brian2.importexport
+writing output... [ 62%] reference/brian2.importexport.dictlike.DictImportExport
+writing output... [ 62%] reference/brian2.importexport.dictlike.PandasImportExport
+writing output... [ 62%] reference/brian2.importexport.importexport.ImportExport
+writing output... [ 63%] reference/brian2.input
+writing output... [ 63%] reference/brian2.input.binomial.BinomialFunction
+writing output... [ 63%] reference/brian2.input.poissongroup.PoissonGroup
+writing output... [ 63%] reference/brian2.input.poissoninput.PoissonInput
+writing output... [ 63%] reference/brian2.input.spikegeneratorgroup.SpikeGeneratorGroup
+writing output... [ 64%] reference/brian2.input.timedarray.TimedArray
+writing output... [ 64%] reference/brian2.memory
+writing output... [ 64%] reference/brian2.memory.dynamicarray.DynamicArray
+writing output... [ 64%] reference/brian2.memory.dynamicarray.DynamicArray1D
+writing output... [ 64%] reference/brian2.memory.dynamicarray.getslices
+writing output... [ 65%] reference/brian2.monitors
+writing output... [ 65%] reference/brian2.monitors.ratemonitor.PopulationRateMonitor
+writing output... [ 65%] reference/brian2.monitors.spikemonitor.EventMonitor
+writing output... [ 65%] reference/brian2.monitors.spikemonitor.SpikeMonitor
+writing output... [ 65%] reference/brian2.monitors.statemonitor.StateMonitor
+writing output... [ 65%] reference/brian2.monitors.statemonitor.StateMonitorView
+writing output... [ 66%] reference/brian2.only.restore_initial_state
+writing output... [ 66%] reference/brian2.parsing
+writing output... [ 66%] reference/brian2.parsing.bast.BrianASTRenderer
+writing output... [ 66%] reference/brian2.parsing.bast.brian_ast
+writing output... [ 66%] reference/brian2.parsing.bast.brian_dtype_from_dtype
+writing output... [ 67%] reference/brian2.parsing.bast.brian_dtype_from_value
+writing output... [ 67%] reference/brian2.parsing.bast.is_boolean
+writing output... [ 67%] reference/brian2.parsing.bast.is_boolean_dtype
+writing output... [ 67%] reference/brian2.parsing.bast.is_float
+writing output... [ 67%] reference/brian2.parsing.bast.is_float_dtype
+writing output... [ 68%] reference/brian2.parsing.bast.is_integer
+writing output... [ 68%] reference/brian2.parsing.bast.is_integer_dtype
+writing output... [ 68%] reference/brian2.parsing.dependencies.abstract_code_dependencies
+writing output... [ 68%] reference/brian2.parsing.dependencies.get_read_write_funcs
+writing output... [ 68%] reference/brian2.parsing.expressions.is_boolean_expression
+writing output... [ 69%] reference/brian2.parsing.expressions.parse_expression_dimensions
+writing output... [ 69%] reference/brian2.parsing.functions.AbstractCodeFunction
+writing output... [ 69%] reference/brian2.parsing.functions.FunctionRewriter
+writing output... [ 69%] reference/brian2.parsing.functions.VarRewriter
+writing output... [ 69%] reference/brian2.parsing.functions.abstract_code_from_function
+writing output... [ 70%] reference/brian2.parsing.functions.extract_abstract_code_functions
+writing output... [ 70%] reference/brian2.parsing.functions.substitute_abstract_code_functions
+writing output... [ 70%] reference/brian2.parsing.rendering.CPPNodeRenderer
+writing output... [ 70%] reference/brian2.parsing.rendering.NodeRenderer
+writing output... [ 70%] reference/brian2.parsing.rendering.NumpyNodeRenderer
+writing output... [ 71%] reference/brian2.parsing.rendering.SympyNodeRenderer
+writing output... [ 71%] reference/brian2.parsing.rendering.get_node_value
+writing output... [ 71%] reference/brian2.parsing.statements.parse_statement
+writing output... [ 71%] reference/brian2.parsing.sympytools.CustomSympyPrinter
+writing output... [ 71%] reference/brian2.parsing.sympytools.PRINTER
+writing output... [ 72%] reference/brian2.parsing.sympytools.check_expression_for_multiple_stateful_functions
+writing output... [ 72%] reference/brian2.parsing.sympytools.expression_complexity
+writing output... [ 72%] reference/brian2.parsing.sympytools.str_to_sympy
+writing output... [ 72%] reference/brian2.parsing.sympytools.sympy_to_str
+writing output... [ 72%] reference/brian2.random
+writing output... [ 73%] reference/brian2.spatialneuron
+writing output... [ 73%] reference/brian2.spatialneuron.morphology.Children
+writing output... [ 73%] reference/brian2.spatialneuron.morphology.Cylinder
+writing output... [ 73%] reference/brian2.spatialneuron.morphology.Morphology
+writing output... [ 73%] reference/brian2.spatialneuron.morphology.MorphologyIndexWrapper
+writing output... [ 73%] reference/brian2.spatialneuron.morphology.Node
+writing output... [ 74%] reference/brian2.spatialneuron.morphology.Section
+writing output... [ 74%] reference/brian2.spatialneuron.morphology.Soma
+writing output... [ 74%] reference/brian2.spatialneuron.morphology.SubMorphology
+writing output... [ 74%] reference/brian2.spatialneuron.morphology.Topology
+writing output... [ 74%] reference/brian2.spatialneuron.spatialneuron.FlatMorphology
+writing output... [ 75%] reference/brian2.spatialneuron.spatialneuron.SpatialNeuron
+writing output... [ 75%] reference/brian2.spatialneuron.spatialneuron.SpatialStateUpdater
+writing output... [ 75%] reference/brian2.spatialneuron.spatialneuron.SpatialSubgroup
+writing output... [ 75%] reference/brian2.stateupdaters
+writing output... [ 75%] reference/brian2.stateupdaters.GSL.GSLContainer
+writing output... [ 76%] reference/brian2.stateupdaters.GSL.GSLStateUpdater
+writing output... [ 76%] reference/brian2.stateupdaters.GSL.gsl_rk2
+writing output... [ 76%] reference/brian2.stateupdaters.GSL.gsl_rk4
+writing output... [ 76%] reference/brian2.stateupdaters.GSL.gsl_rk8pd
+writing output... [ 76%] reference/brian2.stateupdaters.GSL.gsl_rkck
+writing output... [ 77%] reference/brian2.stateupdaters.GSL.gsl_rkf45
+writing output... [ 77%] reference/brian2.stateupdaters.base.StateUpdateMethod
+writing output... [ 77%] reference/brian2.stateupdaters.base.UnsupportedEquationsException
+writing output... [ 77%] reference/brian2.stateupdaters.base.extract_method_options
+writing output... [ 77%] reference/brian2.stateupdaters.exact.IndependentStateUpdater
+writing output... [ 78%] reference/brian2.stateupdaters.exact.LinearStateUpdater
+writing output... [ 78%] reference/brian2.stateupdaters.exact.exact
+writing output... [ 78%] reference/brian2.stateupdaters.exact.get_linear_system
+writing output... [ 78%] reference/brian2.stateupdaters.exact.independent
+writing output... [ 78%] reference/brian2.stateupdaters.exact.linear
+writing output... [ 79%] reference/brian2.stateupdaters.explicit.ExplicitStateUpdater
+writing output... [ 79%] reference/brian2.stateupdaters.explicit.diagonal_noise
+writing output... [ 79%] reference/brian2.stateupdaters.explicit.euler
+writing output... [ 79%] reference/brian2.stateupdaters.explicit.heun
+writing output... [ 79%] reference/brian2.stateupdaters.explicit.milstein
+writing output... [ 80%] reference/brian2.stateupdaters.explicit.rk2
+writing output... [ 80%] reference/brian2.stateupdaters.explicit.rk4
+writing output... [ 80%] reference/brian2.stateupdaters.explicit.split_expression
+writing output... [ 80%] reference/brian2.stateupdaters.exponential_euler.ExponentialEulerStateUpdater
+writing output... [ 80%] reference/brian2.stateupdaters.exponential_euler.exponential_euler
+writing output... [ 81%] reference/brian2.stateupdaters.exponential_euler.get_conditionally_linear_system
+writing output... [ 81%] reference/brian2.synapses
+writing output... [ 81%] reference/brian2.synapses.parse_synaptic_generator_syntax.handle_range
+writing output... [ 81%] reference/brian2.synapses.parse_synaptic_generator_syntax.handle_sample
+writing output... [ 81%] reference/brian2.synapses.parse_synaptic_generator_syntax.parse_synapse_generator
+writing output... [ 81%] reference/brian2.synapses.spikequeue.SpikeQueue
+writing output... [ 82%] reference/brian2.synapses.synapses.StateUpdater
+writing output... [ 82%] reference/brian2.synapses.synapses.SummedVariableUpdater
+writing output... [ 82%] reference/brian2.synapses.synapses.Synapses
+writing output... [ 82%] reference/brian2.synapses.synapses.SynapticIndexing
+writing output... [ 82%] reference/brian2.synapses.synapses.SynapticPathway
+writing output... [ 83%] reference/brian2.synapses.synapses.SynapticSubgroup
+writing output... [ 83%] reference/brian2.synapses.synapses.find_synapses
+writing output... [ 83%] reference/brian2.synapses.synapses.slice_to_test
+writing output... [ 83%] reference/brian2.units
+writing output... [ 83%] reference/brian2.units.allunits.celsius
+writing output... [ 84%] reference/brian2.units.fundamentalunits.DIMENSIONLESS
+writing output... [ 84%] reference/brian2.units.fundamentalunits.Dimension
+writing output... [ 84%] reference/brian2.units.fundamentalunits.DimensionMismatchError
+writing output... [ 84%] reference/brian2.units.fundamentalunits.Quantity
+writing output... [ 84%] reference/brian2.units.fundamentalunits.Unit
+writing output... [ 85%] reference/brian2.units.fundamentalunits.UnitRegistry
+writing output... [ 85%] reference/brian2.units.fundamentalunits.additional_unit_register
+writing output... [ 85%] reference/brian2.units.fundamentalunits.check_units
+writing output... [ 85%] reference/brian2.units.fundamentalunits.fail_for_dimension_mismatch
+writing output... [ 85%] reference/brian2.units.fundamentalunits.get_dimensions
+writing output... [ 86%] reference/brian2.units.fundamentalunits.get_or_create_dimension
+writing output... [ 86%] reference/brian2.units.fundamentalunits.get_unit
+writing output... [ 86%] reference/brian2.units.fundamentalunits.get_unit_for_display
+writing output... [ 86%] reference/brian2.units.fundamentalunits.have_same_dimensions
+writing output... [ 86%] reference/brian2.units.fundamentalunits.in_best_unit
+writing output... [ 87%] reference/brian2.units.fundamentalunits.in_unit
+writing output... [ 87%] reference/brian2.units.fundamentalunits.is_dimensionless
+writing output... [ 87%] reference/brian2.units.fundamentalunits.is_scalar_type
+writing output... [ 87%] reference/brian2.units.fundamentalunits.quantity_with_dimensions
+writing output... [ 87%] reference/brian2.units.fundamentalunits.register_new_unit
+writing output... [ 88%] reference/brian2.units.fundamentalunits.standard_unit_register
+writing output... [ 88%] reference/brian2.units.fundamentalunits.user_unit_register
+writing output... [ 88%] reference/brian2.units.fundamentalunits.wrap_function_change_dimensions
+writing output... [ 88%] reference/brian2.units.fundamentalunits.wrap_function_dimensionless
+writing output... [ 88%] reference/brian2.units.fundamentalunits.wrap_function_keep_dimensions
+writing output... [ 88%] reference/brian2.units.fundamentalunits.wrap_function_remove_dimensions
+writing output... [ 89%] reference/brian2.units.unitsafefunctions.arange
+writing output... [ 89%] reference/brian2.units.unitsafefunctions.arccos
+writing output... [ 89%] reference/brian2.units.unitsafefunctions.arccosh
+writing output... [ 89%] reference/brian2.units.unitsafefunctions.arcsin
+writing output... [ 89%] reference/brian2.units.unitsafefunctions.arcsinh
+writing output... [ 90%] reference/brian2.units.unitsafefunctions.arctan
+writing output... [ 90%] reference/brian2.units.unitsafefunctions.arctanh
+writing output... [ 90%] reference/brian2.units.unitsafefunctions.cos
+writing output... [ 90%] reference/brian2.units.unitsafefunctions.cosh
+writing output... [ 90%] reference/brian2.units.unitsafefunctions.diagonal
+writing output... [ 91%] reference/brian2.units.unitsafefunctions.dot
+writing output... [ 91%] reference/brian2.units.unitsafefunctions.exp
+writing output... [ 91%] reference/brian2.units.unitsafefunctions.linspace
+writing output... [ 91%] reference/brian2.units.unitsafefunctions.log
+writing output... [ 91%] reference/brian2.units.unitsafefunctions.ravel
+writing output... [ 92%] reference/brian2.units.unitsafefunctions.sin
+writing output... [ 92%] reference/brian2.units.unitsafefunctions.sinh
+writing output... [ 92%] reference/brian2.units.unitsafefunctions.tan
+writing output... [ 92%] reference/brian2.units.unitsafefunctions.tanh
+writing output... [ 92%] reference/brian2.units.unitsafefunctions.trace
+writing output... [ 93%] reference/brian2.units.unitsafefunctions.where
+writing output... [ 93%] reference/brian2.units.unitsafefunctions.wrap_function_to_method
+writing output... [ 93%] reference/brian2.utils
+writing output... [ 93%] reference/brian2.utils.arrays.calc_repeats
+writing output... [ 93%] reference/brian2.utils.caching.CacheKey
+writing output... [ 94%] reference/brian2.utils.caching.cached
+writing output... [ 94%] reference/brian2.utils.environment.running_from_ipython
+writing output... [ 94%] reference/brian2.utils.filelock.BaseFileLock
+writing output... [ 94%] reference/brian2.utils.filelock.FileLock
+writing output... [ 94%] reference/brian2.utils.filelock.SoftFileLock
+writing output... [ 95%] reference/brian2.utils.filelock.Timeout
+writing output... [ 95%] reference/brian2.utils.filelock.UnixFileLock
+writing output... [ 95%] reference/brian2.utils.filelock.WindowsFileLock
+writing output... [ 95%] reference/brian2.utils.filelock.logger
+writing output... [ 95%] reference/brian2.utils.filetools.copy_directory
+writing output... [ 96%] reference/brian2.utils.filetools.ensure_directory
+writing output... [ 96%] reference/brian2.utils.filetools.ensure_directory_of_file
+writing output... [ 96%] reference/brian2.utils.filetools.in_directory
+writing output... [ 96%] reference/brian2.utils.logger.BrianLogger
+writing output... [ 96%] reference/brian2.utils.logger.HierarchyFilter
+writing output... [ 96%] reference/brian2.utils.logger.LogCapture
+writing output... [ 97%] reference/brian2.utils.logger.NameFilter
+writing output... [ 97%] reference/brian2.utils.logger.brian_excepthook
+writing output... [ 97%] reference/brian2.utils.logger.catch_logs
+writing output... [ 97%] reference/brian2.utils.logger.clean_up_logging
+writing output... [ 97%] reference/brian2.utils.logger.get_logger
+writing output... [ 98%] reference/brian2.utils.logger.log_level_validator
+writing output... [ 98%] reference/brian2.utils.logger.std_silent
+writing output... [ 98%] reference/brian2.utils.stringtools.SpellChecker
+writing output... [ 98%] reference/brian2.utils.stringtools.code_representation
+writing output... [ 98%] reference/brian2.utils.stringtools.deindent
+writing output... [ 99%] reference/brian2.utils.stringtools.get_identifiers
+writing output... [ 99%] reference/brian2.utils.stringtools.indent
+writing output... [ 99%] reference/brian2.utils.stringtools.replace
+writing output... [ 99%] reference/brian2.utils.stringtools.strip_empty_leading_and_trailing_lines
+writing output... [ 99%] reference/brian2.utils.stringtools.strip_empty_lines
+writing output... [100%] reference/brian2.utils.stringtools.stripped_deindented_lines
+writing output... [100%] reference/brian2.utils.stringtools.word_substitute
+writing output... [100%] reference/brian2.utils.topsort.topsort
+
+generating indices... genindex py-modindex done
+highlighting module code... [  1%] brian2.__init__
+highlighting module code... [  2%] brian2.codegen.codeobject
+highlighting module code... [  4%] brian2.codegen.cpp_prefs
+highlighting module code... [  5%] brian2.codegen.generators.GSL_generator
+highlighting module code... [  6%] brian2.codegen.generators.base
+highlighting module code... [  7%] brian2.codegen.generators.cpp_generator
+highlighting module code... [  9%] brian2.codegen.generators.cython_generator
+highlighting module code... [ 10%] brian2.codegen.generators.numpy_generator
+highlighting module code... [ 11%] brian2.codegen.optimisation
+highlighting module code... [ 12%] brian2.codegen.permutation_analysis
+highlighting module code... [ 14%] brian2.codegen.runtime.GSLcython_rt.GSLcython_rt
+highlighting module code... [ 15%] brian2.codegen.runtime.cython_rt.cython_rt
+highlighting module code... [ 16%] brian2.codegen.runtime.cython_rt.extension_manager
+highlighting module code... [ 17%] brian2.codegen.runtime.numpy_rt.numpy_rt
+highlighting module code... [ 19%] brian2.codegen.statements
+highlighting module code... [ 20%] brian2.codegen.templates
+highlighting module code... [ 21%] brian2.codegen.translation
+highlighting module code... [ 22%] brian2.core.base
+highlighting module code... [ 23%] brian2.core.clocks
+highlighting module code... [ 25%] brian2.core.core_preferences
+highlighting module code... [ 26%] brian2.core.functions
+highlighting module code... [ 27%] brian2.core.magic
+highlighting module code... [ 28%] brian2.core.names
+highlighting module code... [ 30%] brian2.core.namespace
+highlighting module code... [ 31%] brian2.core.network
+highlighting module code... [ 32%] brian2.core.operations
+highlighting module code... [ 33%] brian2.core.preferences
+highlighting module code... [ 35%] brian2.core.spikesource
+highlighting module code... [ 36%] brian2.core.tracking
+highlighting module code... [ 37%] brian2.core.variables
+highlighting module code... [ 38%] brian2.devices.cpp_standalone.GSLcodeobject
+highlighting module code... [ 40%] brian2.devices.cpp_standalone.codeobject
+highlighting module code... [ 41%] brian2.devices.cpp_standalone.device
+highlighting module code... [ 42%] brian2.devices.device
+highlighting module code... [ 43%] brian2.equations.codestrings
+highlighting module code... [ 44%] brian2.equations.equations
+highlighting module code... [ 46%] brian2.equations.refractory
+highlighting module code... [ 47%] brian2.equations.unitcheck
+highlighting module code... [ 48%] brian2.groups.group
+highlighting module code... [ 49%] brian2.groups.neurongroup
+highlighting module code... [ 51%] brian2.groups.subgroup
+highlighting module code... [ 52%] brian2.hears
+highlighting module code... [ 53%] brian2.importexport.dictlike
+highlighting module code... [ 54%] brian2.importexport.importexport
+highlighting module code... [ 56%] brian2.input.binomial
+highlighting module code... [ 57%] brian2.input.poissongroup
+highlighting module code... [ 58%] brian2.input.poissoninput
+highlighting module code... [ 59%] brian2.input.spikegeneratorgroup
+highlighting module code... [ 60%] brian2.input.timedarray
+highlighting module code... [ 62%] brian2.memory.dynamicarray
+highlighting module code... [ 63%] brian2.monitors.ratemonitor
+highlighting module code... [ 64%] brian2.monitors.spikemonitor
+highlighting module code... [ 65%] brian2.monitors.statemonitor
+highlighting module code... [ 67%] brian2.only
+highlighting module code... [ 68%] brian2.parsing.bast
+highlighting module code... [ 69%] brian2.parsing.dependencies
+highlighting module code... [ 70%] brian2.parsing.expressions
+highlighting module code... [ 72%] brian2.parsing.functions
+highlighting module code... [ 73%] brian2.parsing.rendering
+highlighting module code... [ 74%] brian2.parsing.statements
+highlighting module code... [ 75%] brian2.parsing.sympytools
+highlighting module code... [ 77%] brian2.spatialneuron.morphology
+highlighting module code... [ 78%] brian2.spatialneuron.spatialneuron
+highlighting module code... [ 79%] brian2.stateupdaters.GSL
+highlighting module code... [ 80%] brian2.stateupdaters.base
+highlighting module code... [ 81%] brian2.stateupdaters.exact
+highlighting module code... [ 83%] brian2.stateupdaters.explicit
+highlighting module code... [ 84%] brian2.stateupdaters.exponential_euler
+highlighting module code... [ 85%] brian2.synapses.parse_synaptic_generator_syntax
+highlighting module code... [ 86%] brian2.synapses.spikequeue
+highlighting module code... [ 88%] brian2.synapses.synapses
+highlighting module code... [ 89%] brian2.units.fundamentalunits
+highlighting module code... [ 90%] brian2.units.unitsafefunctions
+highlighting module code... [ 91%] brian2.utils.arrays
+highlighting module code... [ 93%] brian2.utils.caching
+highlighting module code... [ 94%] brian2.utils.environment
+highlighting module code... [ 95%] brian2.utils.filelock
+highlighting module code... [ 96%] brian2.utils.filetools
+highlighting module code... [ 98%] brian2.utils.logger
+highlighting module code... [ 99%] brian2.utils.stringtools
+highlighting module code... [100%] brian2.utils.topsort
+
+writing additional pages... search done
+copying images... [  1%] resources/examples_images/COBAHH.1.png
+copying images... [  2%] resources/examples_images/CUBA.1.png
+copying images... [  3%] resources/examples_images/IF_curve_Hodgkin_Huxley.1.png
+copying images... [  4%] resources/examples_images/IF_curve_LIF.1.png
+copying images... [  5%] resources/examples_images/adaptive_threshold.1.png
+copying images... [  6%] resources/examples_images/advanced.COBAHH_approximated.1.png
+copying images... [  7%] resources/examples_images/advanced.Ornstein_Uhlenbeck.1.png
+copying images... [  8%] resources/examples_images/advanced.compare_GSL_to_conventional.1.png
+copying images... [  8%] resources/examples_images/advanced.custom_events.1.png
+copying images... [  9%] resources/examples_images/advanced.exprel_function.1.png
+copying images... [ 10%] resources/examples_images/advanced.modelfitting_sbi.1.png
+copying images... [ 11%] resources/examples_images/advanced.modelfitting_sbi.2.png
+copying images... [ 12%] resources/examples_images/advanced.stochastic_odes.1.png
+copying images... [ 13%] resources/examples_images/advanced.stochastic_odes.2.png
+copying images... [ 14%] resources/examples_images/advanced.stochastic_odes.3.png
+copying images... [ 15%] resources/examples_images/compartmental.bipolar_cell.1.png
+copying images... [ 16%] resources/examples_images/compartmental.bipolar_with_inputs.1.png
+copying images... [ 17%] resources/examples_images/compartmental.bipolar_with_inputs2.1.png
+copying images... [ 18%] resources/examples_images/compartmental.cylinder.1.png
+copying images... [ 19%] resources/examples_images/compartmental.hh_with_spikes.1.png
+copying images... [ 20%] resources/examples_images/compartmental.hodgkin_huxley_1952.1.png
+copying images... [ 21%] resources/examples_images/compartmental.infinite_cable.1.png
+copying images... [ 22%] resources/examples_images/compartmental.lfp.1.png
+copying images... [ 23%] resources/examples_images/compartmental.rall.1.png
+copying images... [ 24%] resources/examples_images/compartmental.spike_initiation.1.png
+copying images... [ 25%] resources/examples_images/frompapers.Brette_2004.1.png
+copying images... [ 25%] resources/examples_images/frompapers.Brette_2012.Fig1.1.png
+copying images... [ 26%] resources/examples_images/frompapers.Brette_2012.Fig3AB.1.png
+copying images... [ 27%] resources/examples_images/frompapers.Brette_2012.Fig3CF.1.png
+copying images... [ 28%] resources/examples_images/frompapers.Brette_2012.Fig4.1.png
+copying images... [ 29%] resources/examples_images/frompapers.Brette_2012.Fig5A.1.png
+copying images... [ 30%] resources/examples_images/frompapers.Brette_Gerstner_2005.1.png
+copying images... [ 31%] resources/examples_images/frompapers.Brette_Guigon_2003.1.png
+copying images... [ 32%] resources/examples_images/frompapers.Brunel_2000.1.png
+copying images... [ 33%] resources/examples_images/frompapers.Brunel_2000.2.png
+copying images... [ 34%] resources/examples_images/frompapers.Brunel_2000.3.png
+copying images... [ 35%] resources/examples_images/frompapers.Brunel_2000.4.png
+copying images... [ 36%] resources/examples_images/frompapers.Brunel_Hakim_1999.1.png
+copying images... [ 37%] resources/examples_images/frompapers.Brunel_Wang_2001.1.png
+copying images... [ 38%] resources/examples_images/frompapers.Brunel_Wang_2001.2.png
+copying images... [ 39%] resources/examples_images/frompapers.Clopath_et_al_2010_homeostasis.1.png
+copying images... [ 40%] resources/examples_images/frompapers.Clopath_et_al_2010_no_homeostasis.1.png
+copying images... [ 41%] resources/examples_images/frompapers.Destexhe_et_al_1998.1.png
+copying images... [ 42%] resources/examples_images/frompapers.Diesmann_et_al_1999.1.png
+copying images... [ 42%] resources/examples_images/frompapers.Graupner_Brunel_2012.1.png
+copying images... [ 43%] resources/examples_images/frompapers.Hindmarsh_Rose_1984.1.png
+copying images... [ 44%] resources/examples_images/frompapers.Izhikevich_2003.1.png
+copying images... [ 45%] resources/examples_images/frompapers.Izhikevich_2007.1.png
+copying images... [ 46%] resources/examples_images/frompapers.Jansen_Rit_1995_single_column.1.png
+copying images... [ 47%] resources/examples_images/frompapers.Kremer_et_al_2011_barrel_cortex.1.png
+copying images... [ 48%] resources/examples_images/frompapers.Maass_Natschlaeger_Markram_2002.1.png
+copying images... [ 49%] resources/examples_images/frompapers.Morris_Lecar_1981.1.png
+copying images... [ 50%] resources/examples_images/frompapers.Naud_et_al_2008_adex_firing_patterns.1.png
+copying images... [ 51%] resources/examples_images/frompapers.Naud_et_al_2008_adex_firing_patterns.2.png
+copying images... [ 52%] resources/examples_images/frompapers.Naud_et_al_2008_adex_firing_patterns.3.png
+copying images... [ 53%] resources/examples_images/frompapers.Naud_et_al_2008_adex_firing_patterns.4.png
+copying images... [ 54%] resources/examples_images/frompapers.Naud_et_al_2008_adex_firing_patterns.5.png
+copying images... [ 55%] resources/examples_images/frompapers.Naud_et_al_2008_adex_firing_patterns.6.png
+copying images... [ 56%] resources/examples_images/frompapers.Naud_et_al_2008_adex_firing_patterns.7.png
+copying images... [ 57%] resources/examples_images/frompapers.Naud_et_al_2008_adex_firing_patterns.8.png
+copying images... [ 58%] resources/examples_images/frompapers.Nicola_Clopath_2017.1.png
+copying images... [ 58%] resources/examples_images/frompapers.Platkiewicz_Brette_2011.1.png
+copying images... [ 59%] resources/examples_images/frompapers.Rossant_et_al_2011bis.1.png
+copying images... [ 60%] resources/examples_images/frompapers.Rothman_Manis_2003.1.png
+copying images... [ 61%] resources/examples_images/frompapers.Stimberg_et_al_2018.example_1_COBA.1.png
+copying images... [ 62%] resources/examples_images/frompapers.Stimberg_et_al_2018.example_1_COBA.2.png
+copying images... [ 63%] resources/examples_images/frompapers.Stimberg_et_al_2018.example_2_gchi_astrocyte.1.png
+copying images... [ 64%] resources/examples_images/frompapers.Stimberg_et_al_2018.example_3_io_synapse.1.png
+copying images... [ 65%] resources/examples_images/frompapers.Stimberg_et_al_2018.example_4_rsmean.1.png
+copying images... [ 66%] resources/examples_images/frompapers.Stimberg_et_al_2018.example_4_synrel.1.png
+copying images... [ 67%] resources/examples_images/frompapers.Stimberg_et_al_2018.example_5_astro_ring.1.png
+copying images... [ 68%] resources/examples_images/frompapers.Stimberg_et_al_2018.example_6_COBA_with_astro.1.png
+copying images... [ 69%] resources/examples_images/frompapers.Stimberg_et_al_2019.example_3_bisection.1.png
+copying images... [ 70%] resources/examples_images/frompapers.Stimberg_et_al_2019.example_3_bisection_standalone.1.png
+copying images... [ 71%] resources/examples_images/frompapers.Sturzl_et_al_2000.1.png
+copying images... [ 72%] resources/examples_images/frompapers.Tetzlaff_2015.1.png
+copying images... [ 73%] resources/examples_images/frompapers.Tetzlaff_2015.2.png
+copying images... [ 74%] resources/examples_images/frompapers.Touboul_Brette_2008.1.png
+copying images... [ 75%] resources/examples_images/frompapers.Tsodyks_Pawelzik_Markram_1998.1.png
+copying images... [ 75%] resources/examples_images/frompapers.Tsodyks_Uziel_Markram_2000.1.png
+copying images... [ 76%] resources/examples_images/frompapers.Vogels_et_al_2011.1.png
+copying images... [ 77%] resources/examples_images/frompapers.Wang_2002.1.png
+copying images... [ 78%] resources/examples_images/frompapers.Wang_Buszaki_1996.1.png
+copying images... [ 79%] resources/examples_images/multiprocessing.01_using_cython.1.png
+copying images... [ 80%] resources/examples_images/multiprocessing.02_using_standalone.1.png
+copying images... [ 81%] resources/examples_images/multiprocessing.03_standalone_joblib.1.png
+copying images... [ 82%] resources/examples_images/non_reliability.1.png
+copying images... [ 83%] resources/examples_images/phase_locking.1.png
+copying images... [ 84%] resources/examples_images/reliability.1.png
+copying images... [ 85%] resources/examples_images/standalone.STDP_standalone.1.png
+copying images... [ 86%] resources/examples_images/standalone.cuba_openmp.1.png
+copying images... [ 87%] resources/examples_images/standalone.simple_case.1.png
+copying images... [ 88%] resources/examples_images/standalone.simple_case_build.1.png
+copying images... [ 89%] resources/examples_images/standalone.standalone_multiple_processes.1.png
+copying images... [ 90%] resources/examples_images/standalone.standalone_multiplerun.1.png
+copying images... [ 91%] resources/examples_images/synapses.STDP.1.png
+copying images... [ 92%] resources/examples_images/synapses.continuous_interaction.1.png
+copying images... [ 92%] resources/examples_images/synapses.efficient_gaussian_connectivity.1.png
+copying images... [ 93%] resources/examples_images/synapses.gapjunctions.1.png
+copying images... [ 94%] resources/examples_images/synapses.jeffress.1.png
+copying images... [ 95%] resources/examples_images/synapses.licklider.1.png
+copying images... [ 96%] resources/examples_images/synapses.nonlinear.1.png
+copying images... [ 97%] resources/examples_images/synapses.spatial_connections.1.png
+copying images... [ 98%] resources/examples_images/synapses.spike_based_homeostasis.1.png
+copying images... [ 99%] resources/examples_images/synapses.state_variables.1.png
+copying images... [100%] resources/examples_images/synapses.synapses.1.png
+
+dumping search index in English (code: en)... done
+dumping object inventory... done
+build succeeded, 22 warnings.
+
+The HTML pages are in ../docs/html.
