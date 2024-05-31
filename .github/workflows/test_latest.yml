@@ -64,6 +64,12 @@ jobs:
           cache: 'pip'
           python-version: ${{ matrix.python-version }}
           allow-prereleases: true
+      - name: Install scipy build dependencies (Linux)
+        run: sudo apt install -y gcc g++ gfortran libopenblas-dev liblapack-dev pkg-config python3-pip python3-dev
+        if: matrix.os.image == 'ubuntu-latest'
+      - name: Install scipy build dependencies (mac OS)
+        run: brew install gfortran openblas pkg-config
+        if: matrix.os.image == 'macOS-12' || matrix.os.image == 'macOS-14'
       - name: Install dependencies
         run: |
           ${{ steps.python.outputs.python-path }} -m pip install --upgrade pip setuptools
