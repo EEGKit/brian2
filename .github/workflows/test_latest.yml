@@ -67,8 +67,12 @@ jobs:
       - name: Install scipy build dependencies (Linux)
         run: sudo apt install -y gcc g++ gfortran libopenblas-dev liblapack-dev pkg-config python3-pip python3-dev
         if: matrix.os.image == 'ubuntu-latest'
-      - name: Make gfortran available on macOS
-        run: sudo ln -s $(which gfortran-13) /usr/local/bin/gfortran 
+      - name: Install scipy build dependencies (mac OS)
+        run: |
+          sudo ln -s $(which gfortran-13) /usr/local/bin/gfortran 
+          brew install openblas pkg-config
+          # Export PKG_CONFIG_PATH to GitHub Actions environment
+          echo "PKG_CONFIG_PATH=/opt/homebrew/opt/openblas/lib/pkgconfig" >> $GITHUB_ENV
         if: matrix.os.image == 'macOS-12' || matrix.os.image == 'macOS-14'
       - name: Install dependencies
         run: |
