@@ -138,7 +138,7 @@ jobs:
         uses: actions/cache@v4
         if: ${{ ! matrix.standalone }}
         with:
-          key: cython-extensions-latest-${{ matrix.os }}-${{ matrix.python-version }}-32bit-${{ matrix.float_dtype_32 }}
+          key: cython-extensions-latest-ubuntu-latest-${{ matrix.python-version }}-32bit-False
           path: ${{ steps.cython-cache.outputs.cachedir }}
       - name: Run Tests
         run: |
