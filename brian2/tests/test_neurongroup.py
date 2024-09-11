@@ -1987,7 +1987,7 @@ def test_random_values_fixed_seed():
 
 
 _random_values = {
-    ("RuntimeDevice", "auto", None): (
+    ("RuntimeDevice", "numpy", None): (
         [0.1636023, 0.76229608, 0.74945305, 0.82121212, 0.82669968],
         [-0.7758696, 0.13295831, 0.87360834, -1.21879122, 0.62980314],
     ),
